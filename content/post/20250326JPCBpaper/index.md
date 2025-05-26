@@ -2,6 +2,7 @@
 title: Publish the results on bacteria interacting with endothelial cell on JPCB
 date: 2025-03-06
 tags: ["news", "paper"]
+authors: []
 image:
   focal_point: 'top'
 ---

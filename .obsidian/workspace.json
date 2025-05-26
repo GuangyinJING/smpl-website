@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/post/20250326JPCBpaper/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -171,7 +171,10 @@
   },
   "active": "155e8203e6a6ac8e",
   "lastOpenFiles": [
+    "content/authors/admin/_index.md",
     "content/post/20250326JPCBpaper/index.md",
+    "content/tour/index.md",
+    "content/_index.md",
     "content/post/20250326JPCBpaper/featured.jpg",
     "public/post/20250326jpcbpaper/featured_hu_bd529287c8fe4910.webp",
     "public/post/20250326jpcbpaper/featured_hu_516538c9e4441101.webp",
@@ -188,7 +191,6 @@
     "public/post/20250326jpcbpaper/index.html",
     "resources/_gen/images/post/20250326jpcbpaper",
     "public/post/20250326jpcbpaper",
-    "content/_index.md",
     "config/_default/menus.yaml.sb-b62e664e-9KV0jR",
     "public/post/20250523-tiandefense/index.html",
     "resources/_gen/images/post/20250523-tiandefense",
@@ -196,7 +198,6 @@
     "public/tag/news/page/1/index.html",
     "public/tag/news/page/1",
     "public/tag/news/page",
-    "content/tour/index.md",
     "assets/css/custom.css.md",
     "custom.css.md",
     "README.md",
