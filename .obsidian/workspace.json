@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/_index.md",
+                "file": "content/post/20-12-02-ICML-best-paper/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -171,32 +171,39 @@
   },
   "active": "155e8203e6a6ac8e",
   "lastOpenFiles": [
+    "public/post/example/featured_hu_de89203c83d51b50.webp",
+    "resources/_gen/images/post/example/featured_hu_de89203c83d51b50.webp",
+    "resources/_gen/images/post/example/featured_hu_a1f9e1213d34924.jpg",
+    "public/tag/news/page/1/index.html",
+    "public/tag/news/page/1",
+    "public/tag/news/page",
+    "public/tag/news/index.xml",
+    "public/tag/news/index.html",
+    "public/tag/news",
+    "public/tag/paper/page/1/index.html",
+    "public/tag/paper/page/1",
+    "public/tag/paper/page",
+    "public/tag/paper/index.xml",
     "content/post/20-12-01-wowchemy-prize/index.md",
-    "content/post/20-12-01-wowchemy-prize/featured.jpg",
-    "assets/media/BacteriaRBC.png",
+    "content/post/_index.md",
+    "public/post/example/featured_hu_537f7f93df2a3a66.webp",
+    "resources/_gen/images/post/example/featured_hu_537f7f93df2a3a66.webp",
+    "public/post/example/featured_hu_4a0a827bde551901.webp",
+    "resources/_gen/images/post/example/featured_hu_4a0a827bde551901.webp",
+    "resources/_gen/images/post/example/featured_hu_42a8e83d4d869621.jpg",
+    "resources/_gen/images/post/example/featured_hu_137f23597e8d77e7.jpg",
+    "public/post/example/featured.jpg",
+    "content/post/example/index.md",
+    "content/post/example/featured.jpg",
     "content/_index.md",
     "content/tour/index.md",
-    "public/media/wobble.png",
-    "assets/media/wobble.png",
     "assets/css/custom.css.md",
-    "config/_default/params.yaml.sb-b62e664e-QWJoHW",
     "custom.css.md",
-    "assets/css",
-    "assets/media/tn.jpg",
-    "assets/media/lab.jpg",
-    "public/media/icon_hu_d42b5bb5044362f8.png",
-    "public/media/icon_hu_b48494b63e61ab42.png",
-    "resources/_gen/images/media/icon_hu_d42b5bb5044362f8.png",
-    "resources/_gen/images/media/icon_hu_b48494b63e61ab42.png",
-    "assets/media/smpl_Logo.pdf",
     "content/post/20-12-02-ICML-best-paper/index.md",
     "README.md",
     "content/publication/journal-article/index.md",
-    "public/publication/journal-article/cite copy.bib",
-    "content/publication/journal-article/cite copy.bib",
     "content/publication/_index.md",
     "notes/Untitled.canvas",
-    "notes/Untitled 1.canvas",
-    "notes"
+    "notes/Untitled 1.canvas"
   ]
 }

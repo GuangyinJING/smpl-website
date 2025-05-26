@@ -1,6 +1,7 @@
 ---
 title: Congratulations to Yangguang TIAN, for his success of Master degree, and PhD position in EPFL
 date: 2025-05-23
+tags: ["event", "DefenseMaster"]
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
