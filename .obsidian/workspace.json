@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/post/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "news",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,10 +171,13 @@
   },
   "active": "155e8203e6a6ac8e",
   "lastOpenFiles": [
+    "content/post/20-12-01-wowchemy-prize/index.md",
+    "content/post/20-12-01-wowchemy-prize/featured.jpg",
+    "assets/media/BacteriaRBC.png",
+    "content/_index.md",
     "content/tour/index.md",
     "public/media/wobble.png",
     "assets/media/wobble.png",
-    "content/_index.md",
     "assets/css/custom.css.md",
     "config/_default/params.yaml.sb-b62e664e-QWJoHW",
     "custom.css.md",
@@ -186,8 +188,6 @@
     "public/media/icon_hu_b48494b63e61ab42.png",
     "resources/_gen/images/media/icon_hu_d42b5bb5044362f8.png",
     "resources/_gen/images/media/icon_hu_b48494b63e61ab42.png",
-    "public/media/icon_hu_c29b3235b99fdb08.png",
-    "resources/_gen/images/media/icon_hu_c29b3235b99fdb08.png",
     "assets/media/smpl_Logo.pdf",
     "content/post/20-12-02-ICML-best-paper/index.md",
     "README.md",
