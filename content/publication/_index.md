@@ -7,5 +7,5 @@ view: citation
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: 'Overview of SMPL research'
-  image: "Overview.jpg"
+  image: 'Overview.jpg'
 ---
