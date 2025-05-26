@@ -14,6 +14,18 @@ appearance:
   font: native
   font_size: L
 
+# Site header
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: false
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: false
+    brand_text: "SMPL"
+
 # SEO
 
 marketing:
