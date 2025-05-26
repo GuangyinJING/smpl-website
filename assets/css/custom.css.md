@@ -7,3 +7,14 @@
 .hero-content .hero-image {
   transform: translate(-40px, 40px); /* 40px right, 40px down */
 }
+
+.page-header .banner {
+  max-height: 600px; /* Limit banner height */
+  overflow: hidden; /* Crop excess */
+}
+.page-header .banner img {
+  width: 100%; /* Fit width */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover; /* Crop to fit */
+  object-position: center; /* Center image */
+}
