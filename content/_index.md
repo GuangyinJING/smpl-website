@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Soft Matter Physics Laboratory (SMPL)"
+title: "Soft Matter Physics Laboratory"
 date: 2025-05-26
 type: landing
 
