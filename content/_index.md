@@ -9,7 +9,8 @@ sections:
     content:
       title: |
         SMPL
-        Research Group
+      subtitle: |
+        Soft Matter Physics Lab at Northwest University China
       image:
         filename: welcome.jpg
       text: |
