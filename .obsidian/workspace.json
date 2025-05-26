@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/publication/_index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "_index"
@@ -172,6 +172,7 @@
   "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
     "content/publication/zou-2009-mechanical/index.md",
+    "content/publication/_index.md",
     "content/publication/preprint/index.md",
     "content/publication/jing-2006-surface/index.md",
     "content/publication/jing-2006-surface/cite.bib",
@@ -206,7 +207,6 @@
     "content/publication/ma-2009-contact/index.md",
     "content/publication/luo-2015-two/index.md",
     "content/publication/liu-2014-tuning/index.md",
-    "content/publication/ma-2010-cellular/index.md",
     "public/media/Overview.jpg",
     "assets/media/Overview.jpg",
     "content/publication/journal-article/featured.jpg",
