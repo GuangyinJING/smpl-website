@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: SMPL Publications
 
 # Listing view
 view: citation
