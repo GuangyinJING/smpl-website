@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/_index.md",
+                "file": "content/contact/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
-    "assets/css/custom.css.md",
     "content/publication/_index.md",
+    "assets/css/custom.css.md",
     "assets/media/Overview.jpg",
     "assets/media/Overviewjpg.jpg",
     "assets/media/Overview.jpg.sb-b62e664e-FbDstI",

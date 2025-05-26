@@ -9,16 +9,16 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        Welcome to visit us. Our lab locates in Xi'An city, the old capital of acient China. We essentially root in our physics background included in the School of Physics in Northwest University, one of oldest university in China. Not as indicated by the university name, we are not literally in the nortwest of China, rather we are almost locating in the geological center of China. Feel free to contact us for a visit, or vitual discussion, exchange ideas or city visit.
+      email: jing@nwu.edu.cn
+      phone: +86 29 8830 3679
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 1 Xuefu Dadao, Chang'An Qu
+        city: Xi'An
+        region: ShaanXi
+        postcode: '710127'
+        country: China
+        country_code: CN
       coordinates:
         latitude: '37.4275'
         longitude: '-122.1697'
