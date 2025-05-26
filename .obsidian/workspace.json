@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "website builder that empowers creators",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +171,11 @@
   },
   "active": "155e8203e6a6ac8e",
   "lastOpenFiles": [
-    "content/publication/journal-article/index.md",
+    "content/contact/index.md",
     "content/publication/_index.md",
+    "content/post/20250523-TianDefense/index.md",
+    "content/post/_index.md",
+    "content/publication/journal-article/index.md",
     "content/publication/journal-article/featured.jpg",
     "public/tag/soft-matter/page/1/index.html",
     "public/tag/soft-matter/page/1",
@@ -211,9 +214,7 @@
     "content/post/20250326JPCBpaper/index.md",
     "content/tour/index.md",
     "content/_index.md",
-    "content/post/_index.md",
     "content/post/example/index.md",
-    "content/post/20250523-TianDefense/index.md",
     "assets/css/custom.css.md",
     "custom.css.md",
     "notes/Untitled.canvas",
