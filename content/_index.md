@@ -20,7 +20,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: News & Events
       subtitle:
       text:
       count: 5
