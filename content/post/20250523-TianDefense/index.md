@@ -1,7 +1,9 @@
 ---
 title: Congratulations to Yangguang TIAN, for his success of Master degree, and PhD position in EPFL
 date: 2025-05-23
+authors: ["admin"]
 tags: ["event", "DefenseMaster"]
+featured_image: "YangguangDefense.jpg"
 ---
 
 Congratulations to Yangguang TIAN, for success of defense for Master degree of Physics, on bacterial interaction with cells. Afterwords, he basically was accepted being PhD candidate in EPFL. 
