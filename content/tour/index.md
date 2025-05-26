@@ -17,7 +17,7 @@ sections:
             position: right
             color: "#666"
         - title: Swimming Bacteria - Microswimmer
-          content: As asked very early by Aristotle why we human being do arm swinging spontaneously, swimming *E. Coli* do wobble!
+          content: Just as Aristotle once pondered why humans swing their arms while walking, we wonder for what E. coli do wobble spontaneously as they swim.
           align: left
           background:
             image:
