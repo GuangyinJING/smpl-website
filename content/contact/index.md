@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        Welcome to visit us. Our lab locates in Xi'An city, the old capital of acient China. We essentially root in our physics background included in the School of Physics in Northwest University, one of oldest university in China. Not as indicated by the university name, we are not literally in the nortwest of China, rather we are almost locating in the geological center of China. Feel free to contact us for a visit, or vitual discussion, exchange ideas or city visit.
+        Welcome to the Soft Matter Physics Laboratory! We are based in Xi’an, the ancient capital of China and a city rich in history and culture. Our lab is part of the School of Physics at Northwest University—one of the oldest and most respected universities in China. Despite the name, Northwest University is not located in the far northwest; in fact, Xi’an lies near the geographical center of the country. Rooted in a strong foundation of physics, our research explores the frontiers of soft and active matter. We warmly welcome visitors—whether for academic collaboration, casual discussions, or simply to explore our beautiful city. Feel free to contact us for an in-person visit or a virtual meeting. We look forward to exchanging ideas and building new connections!
       email: jing@nwu.edu.cn
       phone: +86 29 8830 3679
       address:
