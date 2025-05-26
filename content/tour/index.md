@@ -17,11 +17,11 @@ sections:
             position: right
             color: "#666"
         - title: Swimming Bacteria - Microswimmer
-          content: Share your knowledge with the group and explore exciting new topics together!
+          content: As asked very early by Aristotle why we human being do arm swinging spontaneously, swimming *E. Coli* do wobble!
           align: left
           background:
             image:
-              filename: contact.jpg
+              filename: wobble.png
               filters:
                 brightness: 0.7
             position: center

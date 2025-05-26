@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/tour/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -171,10 +171,12 @@
   },
   "active": "155e8203e6a6ac8e",
   "lastOpenFiles": [
+    "public/media/wobble.png",
+    "assets/media/wobble.png",
+    "content/_index.md",
     "assets/css/custom.css.md",
     "config/_default/params.yaml.sb-b62e664e-QWJoHW",
     "custom.css.md",
-    "content/_index.md",
     "assets/css",
     "assets/media/tn.jpg",
     "assets/media/lab.jpg",
@@ -185,7 +187,6 @@
     "public/media/icon_hu_c29b3235b99fdb08.png",
     "resources/_gen/images/media/icon_hu_c29b3235b99fdb08.png",
     "public/media/icon_hu_890e77e66f516311.png",
-    "resources/_gen/images/media/icon_hu_890e77e66f516311.png",
     "assets/media/smpl_Logo.pdf",
     "content/post/20-12-02-ICML-best-paper/index.md",
     "README.md",
