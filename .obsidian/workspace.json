@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tour/index.md",
+                "file": "content/publication/journal-article/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,14 +171,25 @@
   },
   "active": "8158593bf5209c56",
   "lastOpenFiles": [
+    "public/publication/journal-article/featured_hu_a1780a923b5c1d3b.webp",
+    "resources/_gen/images/publication/journal-article/featured_hu_a1780a923b5c1d3b.webp",
+    "public/publication/journal-article/featured_hu_eb84ab11af3e805e.webp",
+    "resources/_gen/images/publication/journal-article/featured_hu_eb84ab11af3e805e.webp",
+    "resources/_gen/images/publication/journal-article/featured_hu_1b9daa5f63746738.jpg",
+    "resources/_gen/images/publication/journal-article/featured_hu_5ecf0783c7cfd4ae.jpg",
+    "public/publication/journal-article/cite copy.bib",
+    "content/publication/journal-article/featured.jpg",
+    "content/publication/journal-article/index.md",
+    "content/publication/journal-article/6DoF.jpg",
+    "content/publication/journal-article/cite copy.bib",
+    "content/publication/_index.md",
+    "content/tour/index.md",
     "assets/media/tn.png",
     "assets/media/screenshot.png",
     "assets/media/preview.png",
     "notes/Untitled.canvas",
     "notes/Untitled 1.canvas",
     "notes",
-    "content/_index.md",
-    "content/authors/WeiFENG/avatar.jpg",
-    "content/authors/admin/avatar.jpg"
+    "content/_index.md"
   ]
 }
