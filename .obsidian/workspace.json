@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/post/20250523-TianDefense/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -169,33 +169,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "155e8203e6a6ac8e",
+  "active": "8b7b9a5dfaf625a3",
   "lastOpenFiles": [
+    "assets/media/YangguangDefense.jpg",
+    "assets/media/DSC_1382.jpg",
+    "content/post/20250326JPCBpaper/index.md",
+    "public/post/20250326jpcbpaper/index.html",
+    "public/post/20250326jpcbpaper/featured_hu_af66deee98fc34bf.webp",
+    "public/post/20250326jpcbpaper/featured_hu_4c76195b2bc8d012.webp",
+    "public/post/20250326jpcbpaper/featured_hu_2c0974417b1b282.webp",
+    "resources/_gen/images/post/20250326jpcbpaper/featured_hu_4c76195b2bc8d012.webp",
+    "resources/_gen/images/post/20250326jpcbpaper/featured_hu_2c0974417b1b282.webp",
+    "resources/_gen/images/post/20250326jpcbpaper/featured_hu_af66deee98fc34bf.webp",
+    "resources/_gen/images/post/20250326jpcbpaper/featured_hu_fe4e7fbe4e2ff88b.jpg",
+    "resources/_gen/images/post/20250326jpcbpaper/featured_hu_c4f1ef3dd87bc94.jpg",
+    "resources/_gen/images/post/20250326jpcbpaper/featured_hu_3a725a6058535a83.jpg",
+    "resources/_gen/images/post/20250326jpcbpaper",
+    "public/post/20250326jpcbpaper",
+    "content/_index.md",
     "content/post/example/index.md",
     "config/_default/menus.yaml.sb-b62e664e-9KV0jR",
     "content/post/20250523-TianDefense/index.md",
-    "content/post/20250523-TianDefense/featured.jpg",
     "public/post/20250523-tiandefense/index.html",
-    "public/post/20250523-tiandefense/featured_hu_6422cbfb9a881eec.webp",
-    "public/post/20250523-tiandefense/featured_hu_c1fd3a16a5c4771f.webp",
-    "resources/_gen/images/post/20250523-tiandefense/featured_hu_6422cbfb9a881eec.webp",
-    "public/post/20250523-tiandefense/featured_hu_9abd4b1fc024f44.webp",
-    "resources/_gen/images/post/20250523-tiandefense/featured_hu_9abd4b1fc024f44.webp",
-    "resources/_gen/images/post/20250523-tiandefense/featured_hu_c1fd3a16a5c4771f.webp",
-    "resources/_gen/images/post/20250523-tiandefense/featured_hu_f0617d9678f8ea4f.jpg",
-    "resources/_gen/images/post/20250523-tiandefense/featured_hu_d20bc9fcd732301b.jpg",
-    "resources/_gen/images/post/20250523-tiandefense/featured_hu_bd62f53119dc52fa.jpg",
     "resources/_gen/images/post/20250523-tiandefense",
     "public/post/20250523-tiandefense",
-    "content/post/20-12-02-ICML-best-paper/index.md",
     "public/tag/news/page/1/index.html",
     "public/tag/news/page/1",
     "public/tag/news/page",
-    "public/tag/news/index.xml",
-    "public/tag/news/index.html",
-    "public/tag/news",
     "content/post/_index.md",
-    "content/_index.md",
     "content/tour/index.md",
     "assets/css/custom.css.md",
     "custom.css.md",
