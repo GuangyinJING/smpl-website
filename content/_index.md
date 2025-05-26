@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Soft Matter Physics Laboratory"
+title: "SMPL"
 date: 2025-05-26
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        SMPL
+        Soft Matter Physics Laboratory (SMPL)
       subtitle: |
         Soft Matter Physics Lab at Northwest University China
       image:
@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
         
-        The **Soft Matter Physics Laboratory (SMPL)** has been a hub in Xi'An China for soft active matter research since 2010. By exploring bacteria—nature’s tiny machines—we aim to uncover the fascinating physics that drives life in complex fluids at low Reynolds number.
+        The **SMPL** has been a hub in Xi'An China for soft active matter research since 2010. By exploring bacteria—nature’s tiny machines—we aim to uncover the fascinating physics that drives life in complex fluids at low Reynolds number.
   
   - block: collection
     content:
