@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7ceb318675d05036",
@@ -171,6 +171,9 @@
   },
   "active": "8158593bf5209c56",
   "lastOpenFiles": [
+    "assets/media/smpl_Logo.jpg",
+    "assets/media/smpl_Logo.pdf",
+    "assets/media/BacteriaGaits.png",
     "content/post/20-12-02-ICML-best-paper/index.md",
     "content/_index.md",
     "README.md",
@@ -188,7 +191,6 @@
     "content/publication/_index.md",
     "content/tour/index.md",
     "assets/media/tn.png",
-    "assets/media/screenshot.png",
     "notes/Untitled.canvas",
     "notes/Untitled 1.canvas",
     "notes"
