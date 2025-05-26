@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "25ce78cec75953be",
+        "id": "12b56b84165cd170",
         "type": "tabs",
         "children": [
           {
-            "id": "8158593bf5209c56",
+            "id": "155e8203e6a6ac8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/css/custom.css.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "custom.css"
+              "title": "_index"
             }
           }
         ]
@@ -169,10 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8158593bf5209c56",
+  "active": "155e8203e6a6ac8e",
   "lastOpenFiles": [
-    "custom.css.md",
     "assets/css/custom.css.md",
+    "config/_default/params.yaml.sb-b62e664e-QWJoHW",
+    "custom.css.md",
     "content/_index.md",
     "assets/css",
     "assets/media/tn.jpg",

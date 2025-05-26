@@ -3,6 +3,9 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+title: "Soft Matter Physics Laboratory (SMPL)"
+description: "Soft Matter Physics Lab at Northwest University, Xi'An, China"
+
 # Appearance
 
 appearance:
