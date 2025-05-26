@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/20250326JPCBpaper/index.md",
+                "file": "content/people/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feature",
+                "query": "website builder that empowers creators",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -172,6 +172,9 @@
   "active": "155e8203e6a6ac8e",
   "lastOpenFiles": [
     "content/authors/admin/_index.md",
+    "content/people/index.md",
+    "content/publication/journal-article/index.md",
+    "content/publication/preprint/index.md",
     "content/post/20250326JPCBpaper/index.md",
     "content/tour/index.md",
     "content/_index.md",
@@ -201,7 +204,6 @@
     "assets/css/custom.css.md",
     "custom.css.md",
     "README.md",
-    "content/publication/journal-article/index.md",
     "content/publication/_index.md",
     "notes/Untitled.canvas",
     "notes/Untitled 1.canvas"
