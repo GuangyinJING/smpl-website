@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/contact/index.md",
+                "file": "content/post/2025GuanshanMuchang/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index"
@@ -169,17 +169,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8303f09fd31e79c",
+  "active": "8b7b9a5dfaf625a3",
   "lastOpenFiles": [
-    "public/media/contact_hu_3fc49d762ea3d315.webp",
-    "resources/_gen/images/media/contact_hu_3fc49d762ea3d315.webp",
-    "public/media/contact_hu_1d3d5ec6f0390485.webp",
-    "resources/_gen/images/media/contact_hu_1d3d5ec6f0390485.webp",
+    "content/post/2025GuanshanMuchang/featured.jpg",
+    "public/post/2025guanshanmuchang/featured_hu_3a4e4874b6a7d743.webp",
+    "resources/_gen/images/post/2025guanshanmuchang/featured_hu_3a4e4874b6a7d743.webp",
+    "resources/_gen/images/post/2025guanshanmuchang/featured_hu_59a27de195aecad6.jpg",
+    "public/post/2025guanshanmuchang/featured_hu_68a114ac8cc4d935.webp",
+    "resources/_gen/images/post/2025guanshanmuchang/featured_hu_68a114ac8cc4d935.webp",
+    "public/post/2025guanshanmuchang/featured_hu_6dc847cb965249c4.webp",
+    "resources/_gen/images/post/2025guanshanmuchang/featured_hu_6dc847cb965249c4.webp",
+    "resources/_gen/images/post/2025guanshanmuchang/featured_hu_c105c377c0459481.jpg",
+    "resources/_gen/images/post/2025guanshanmuchang/featured_hu_8c8712d42c25bed4.jpg",
+    "content/post/20250523-TianDefense/featured.jpg",
+    "assets/css/custom.css.md",
+    "public/post/2025guanshanmuchang/index.html",
+    "resources/_gen/images/post/2025guanshanmuchang",
+    "public/post/2025guanshanmuchang",
+    "content/contact/index.md",
     "assets/media/contact.jpg.sb-b62e664e-7mRR6P",
     "content/publication/_index.md",
-    "assets/css/custom.css.md",
-    "assets/media/Overview.jpg",
-    "assets/media/Overviewjpg.jpg",
     "assets/media/Overview.jpg.sb-b62e664e-FbDstI",
     "content/publication/zou-2009-mechanical/index.md",
     "content/publication/preprint/index.md",
@@ -191,10 +200,7 @@
     "content/publication/fu-2011-strain",
     "content/publication/xing-2005-electrical/index.md",
     "content/publication/xing-2005-electrical/cite.bib",
-    "content/publication/xing-2005-electrical",
     "content/publication/jing-2006-study/index.md",
-    "content/publication/jing-2006-study/cite.bib",
-    "content/publication/jing-2006-study",
     "content/publication/jing-2010-drying/index.md",
     "content/publication/han-2009-bending/index.md",
     "content/publication/lanza-2013-tuning/index.md",
@@ -211,12 +217,6 @@
     "content/publication/liu-2014-coating/index.md",
     "content/publication/ren-2013-pre/index.md",
     "content/publication/xu-2012-amplified/index.md",
-    "content/publication/ma-2009-contact/index.md",
-    "public/media/Overview.jpg",
-    "content/publication/journal-article/featured.jpg",
-    "public/author/maoyuan-xu/avatar_hu_b02b918b5b4b93ed.jpg",
-    "resources/_gen/images/author/maoyuan-xu/avatar_hu_b02b918b5b4b93ed.jpg",
-    "content/authors/MaoyuanXU/avatar.jpg",
     "notes/Untitled.canvas",
     "notes/Untitled 1.canvas"
   ]
