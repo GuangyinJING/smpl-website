@@ -24,8 +24,8 @@ sections:
         longitude: '108.87556253170158'
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Workdays 10:00 to 13:00'
+        - 'Weekend 09:00 to 10:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
