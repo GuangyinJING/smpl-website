@@ -5,5 +5,5 @@
 
 /* Shift welcome.jpg left and downward */
 .hero-content .hero-image {
-  transform: translate(-20px, 20px); /* 20px left, 20px down */
+  transform: translate(-40px, 40px); /* 40px right, 40px down */
 }
