@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        SoftMatterPhysics
+        SMPL
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **SoftMatterPhysics Research Group** has been a center of excellence for active matter research, practice since its founding in 2010.
+        The **SMPL Research Group** has been a center for soft active matter research since 2010. With bacteria, the tiny machine, we are trying to lear amazing living staff.
   
   - block: collection
     content:

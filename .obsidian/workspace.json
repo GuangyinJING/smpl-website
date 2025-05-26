@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/journal-article/index.md",
+                "file": "content/_index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Wowchemy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,6 +171,10 @@
   },
   "active": "8158593bf5209c56",
   "lastOpenFiles": [
+    "content/post/20-12-02-ICML-best-paper/index.md",
+    "content/_index.md",
+    "README.md",
+    "content/publication/journal-article/index.md",
     "public/publication/journal-article/featured_hu_a1780a923b5c1d3b.webp",
     "resources/_gen/images/publication/journal-article/featured_hu_a1780a923b5c1d3b.webp",
     "public/publication/journal-article/featured_hu_eb84ab11af3e805e.webp",
@@ -179,17 +183,14 @@
     "resources/_gen/images/publication/journal-article/featured_hu_5ecf0783c7cfd4ae.jpg",
     "public/publication/journal-article/cite copy.bib",
     "content/publication/journal-article/featured.jpg",
-    "content/publication/journal-article/index.md",
     "content/publication/journal-article/6DoF.jpg",
     "content/publication/journal-article/cite copy.bib",
     "content/publication/_index.md",
     "content/tour/index.md",
     "assets/media/tn.png",
     "assets/media/screenshot.png",
-    "assets/media/preview.png",
     "notes/Untitled.canvas",
     "notes/Untitled 1.canvas",
-    "notes",
-    "content/_index.md"
+    "notes"
   ]
 }
