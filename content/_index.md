@@ -16,7 +16,7 @@ sections:
       text: |
         <br>
         
-        The **SMPL Research Group** has been a center for soft active matter research since 2010. With bacteria, the tiny machine, we are trying to lear amazing living staff.
+        The **Soft Matter Physics Laboratory (SMPL)** has been a hub in Xi'An China for soft active matter research since 2010. By exploring bacteria—nature’s tiny machines—we aim to uncover the fascinating physics that drives life in complex fluids at low Reynolds number.
   
   - block: collection
     content:
