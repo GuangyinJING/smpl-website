@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2025-05-28
 type: landing
 sections:
   - block: slider
