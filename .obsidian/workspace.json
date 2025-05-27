@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tour/index.md",
+                "file": "content/contact/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -171,6 +171,7 @@
   },
   "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
+    "content/tour/index.md",
     "content/admin/index.md",
     "content/_index.md",
     "content/contact/index.md",
@@ -216,7 +217,6 @@
     "content/publication/ma-2012-possible/index.md",
     "content/publication/lanza-2013-electrical/index.md",
     "content/publication/jing-2007-calibration/index.md",
-    "content/publication/liu-2014-coating/index.md",
     "notes/Untitled.canvas",
     "notes/Untitled 1.canvas"
   ]

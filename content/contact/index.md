@@ -22,10 +22,9 @@ sections:
       coordinates:
         latitude: '34.145966421531114'
         longitude: '108.87556253170158'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Enter Building "Physics School" and take the north elevator to room 918 on Floor 9.
       office_hours:
-        - 'Workdays 10:00 to 13:00'
-        - 'Weekend 09:00 to 10:00'
+        - 'Workdays:  08:00 to 17:00'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
