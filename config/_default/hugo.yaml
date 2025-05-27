@@ -38,8 +38,9 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 100
   anchor: smart
+  disableResizing: true
 timeout: 600000
 taxonomies:
   tag: tags
