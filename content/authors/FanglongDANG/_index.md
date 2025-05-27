@@ -2,7 +2,7 @@
 title: Fanglong DANG
 first_name: Fanglong
 last_name: DANG
-superuser: true
+superuser: false
 role: Master student
 organizations:
   - name: Northwest University

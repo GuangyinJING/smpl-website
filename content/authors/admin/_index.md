@@ -2,17 +2,12 @@
 title: Guangyin JING
 first_name: Guangyin
 last_name: JING
-superuser: true
+superuser: false
 role: Professor of Physics
 organizations:
   - name: Northwest University
-    url: ""
-bio: Guangyin Jing (经光银）, professor in the School of Physics of Northwest University, recently focus on the swimming and collective behavior of bacteria in the flows. Prof. Jing graduated from the Department of Physics of Sun Yat-sen University in 2002, and received Ph.D. from the School of Physics of Peking University in 2007. After that, he worked as a postdoctoral fellow in the Soft Matter Laboratory (SIMM) of ESPCI and the Fluid Mechanics Laboratory (FAST) of the University of Paris-Sud. From September 2009, he jointed School of Physics of Northwest University in Xi'an.
-interests:
-  - Active Matter
-  - Microswimmer
-  - Bacteria
-  - Collective motion
+    url: https://nwu.edu.cn
+bio: Guangyin Jing (经光银）, professor in the School of Physics of Northwest University, focus on active soft matter and the non-equilibrium physics of single cell level-- bacteria as a living machinery-- accross different levels.
 education:
   courses:
     - course: PhD in Condensed Matter Physics
