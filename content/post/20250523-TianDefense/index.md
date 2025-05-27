@@ -8,6 +8,7 @@ tags:
   - DefenseMaster
 image:
   focal_point: 'top'
+  caption: 'Group Photo with commitee'
 
 ---
 
