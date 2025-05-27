@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets/css/custom.css.md",
+                "file": "content/tour/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "custom.css"
+              "title": "index"
             }
           }
         ]
@@ -171,6 +171,9 @@
   },
   "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/tour/index.md",
+    "assets/css/custom.css.md",
     "content/post/20250523-TianDefense/index.md",
     "public/post/20250523-tiandefense/featured_hu_47fa2485f8d01b81.webp",
     "public/post/20250523-tiandefense/featured_hu_d55042150788a3c5.webp",
@@ -197,7 +200,6 @@
     "content/authors/HaoLUO/_index.md",
     "content/post/2025GuanshanMuchang/index.md",
     "content/post/20250326JPCBpaper/index.md",
-    "content/_index.md",
     "content/admin/index.md",
     "content/authors/XuanRUO/_index.md",
     "content/authors/YananLIU/_index.md",
@@ -206,9 +208,7 @@
     "content/authors/JiaqiZHAO/_index.md",
     "content/authors/YangguangTIAN/_index.md",
     "content/people/index.md",
-    "content/tour/index.md",
     "content/contact/index.md",
-    "assets/css/custom.css.md",
     "content/publication/_index.md",
     "content/publication/zou-2009-mechanical/index.md",
     "content/publication/preprint/index.md",
