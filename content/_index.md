@@ -1,9 +1,7 @@
 ---
-# Leave the homepage title empty to use the site title
-title: "SMPL"
+title: SMPL
 date: 2025-05-26
 type: landing
-
 sections:
   - block: hero
     content:
@@ -15,37 +13,35 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
+
         The **SMPL** has been a hub in Xi'An China for soft active matter research since 2010. By exploring bacteria—nature’s tiny machines—we aim to uncover the fascinating physics that drives life in complex fluids at low Reynolds number.
-  
   - block: collection
     content:
       title: News & Events
-      subtitle:
-      text:
+      subtitle: 
+      text: 
       count: 5
       filters:
-        author: ''
-        category: ''
+        author: ""
+        category: ""
         exclude_featured: false
-        publication_type: ''
-        tag: ''
+        publication_type: ""
+        tag: ""
       offset: 0
       order: desc
       page_type: post
     design:
       view: card
-      columns: '1'
-  
+      columns: "1"
   - block: markdown
     content:
-      title:
-      subtitle: ''
-      text:
+      title: 
+      subtitle: ""
+      text: 
     design:
-      columns: '1'
+      columns: "1"
       background:
-        image: 
+        image:
           filename: coders.jpg
           filters:
             brightness: 1
@@ -54,9 +50,12 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding:
+          - 20px
+          - "0"
+          - 20px
+          - "0"
       css_class: fullscreen
-
   - block: collection
     content:
       title: Latest Preprints
@@ -65,17 +64,16 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: article
     design:
       view: citation
-      columns: '1'
-
+      columns: "1"
   - block: markdown
     content:
-      title:
-      subtitle:
+      title: 
+      subtitle: 
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
-      columns: '1'
+      columns: "1"
 ---
