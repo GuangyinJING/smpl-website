@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/authors/GuangyinJING/_index.md",
+                "file": "content/post/20250523-TianDefense/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -169,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b7b9a5dfaf625a3",
+  "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
+    "content/authors/GuangyinJING/_index.md",
     "public/manifest.webmanifest",
     "public/publication-type/article-journal/index.xml",
     "public/publication/index.xml",
@@ -181,7 +182,6 @@
     "public/tag/paper/index.xml",
     "public/tag/news/index.xml",
     "public/publication-type/article/index.xml",
-    "public/tag/event/index.xml",
     "public/media/welcome.jpg",
     "public/media/wobble.png",
     "public/media/coders.jpg",
@@ -194,8 +194,6 @@
     "public/post/2025guanshanmuchang/featured_hu_d84df966dc838ba1.webp",
     "content/authors/FanglongDANG/_index.md",
     "content/authors/HaoLUO/_index.md",
-    "content/authors/GuangyinJING/_index.md",
-    "content/authors/GuangyinJING/_index.md",
     "content/post/2025GuanshanMuchang/index.md",
     "content/post/20250523-TianDefense/index.md",
     "content/post/20250326JPCBpaper/index.md",
