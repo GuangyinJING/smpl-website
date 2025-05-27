@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/authors/FanglongDANG/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -171,6 +171,7 @@
   },
   "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/admin/index.md",
     "content/authors/XuanRUO/_index.md",
     "content/authors/YananLIU/_index.md",
@@ -204,7 +205,6 @@
     "content/people/index.md",
     "content/tour/index.md",
     "content/contact/index.md",
-    "content/_index.md",
     "content/post/2025GuanshanMuchang/index.md",
     "assets/css/custom.css.md",
     "content/publication/_index.md",
