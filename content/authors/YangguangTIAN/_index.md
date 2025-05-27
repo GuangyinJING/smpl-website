@@ -1,13 +1,13 @@
 ---
-title: Zhuqiao LI
-first_name: Zhuqiao
-last_name: LI
+title: Yangguang TIAN
+first_name: Yangguang
+last_name: TIAN
 superuser: true
 role: Master student
 organizations:
   - name: Northwest University
     url: ""
-bio: Zhuqiao LI (李竹荞).
+bio: Yangguang TIAN (田阳光).
 interests:
   - Active Matter
   - Microswimmer
@@ -15,11 +15,8 @@ interests:
   - Collective motion
 education:
   courses:
-    - course: Master in Condensed Matter Physics
-      institution: Northweas University (西北大学)
-      year: 2025
     - course: BSc in Physics
-      institution: Hainan Normal University (海南师范大学)
+      institution: Northweas University (西北大学)
       year: 2022
 social:
   - icon: envelope

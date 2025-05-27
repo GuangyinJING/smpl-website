@@ -1,5 +1,5 @@
 ---
-title: Wei FENG 冯伟
+title: Wei FENG
 first_name: Wei
 last_name: FENG
 authors:

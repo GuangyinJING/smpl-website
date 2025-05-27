@@ -1,5 +1,5 @@
 ---
-title: Yannan LIU 刘亚楠
+title: Yannan LIU
 first_name: Yanan
 last_name: LIU
 authors:

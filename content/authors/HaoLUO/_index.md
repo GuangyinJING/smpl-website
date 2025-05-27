@@ -1,5 +1,5 @@
 ---
-title: Hao LUO 罗昊
+title: Hao LUO
 first_name: Hao
 last_name: LUO
 authors:

@@ -1,21 +1,23 @@
 ---
-title: Ruoxuan XI
-first_name: Zhuqiao
-last_name: LI
+title: Tianyu REN
+first_name: Tianyu
+last_name: REN
 superuser: true
 role: Undergraduate student
 organizations:
   - name: Northwest University
     url: ""
-bio: Ruoxuan XI (席若萱).
+bio: Tianyu REN (任天予).
 interests:
-  - Active liquid crystal
-  - Microswimmer in blood cells
+  - Active Matter
+  - Microswimmer
+  - Bacteria
+  - Collective motion
 education:
   courses:
-    - course: Grade2021 in Condensed Matter Physics
-      institution: Northweas University (西北大学)
-      year: 2021
+    - course: Grade2022 in Physics
+      institution: Northwest University (西北大学)
+      year: 2022
 social:
   - icon: envelope
     icon_pack: fas
