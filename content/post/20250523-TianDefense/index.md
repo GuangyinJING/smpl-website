@@ -6,7 +6,9 @@ authors:
 tags:
   - event
   - DefenseMaster
-featured_image: YangguangDefense.jpg
+image:
+  focal_point: 'top'
+
 ---
 
 Congratulations to Yangguang TIAN, for success of defense for Master degree of Physics, on bacterial interaction with cells. Afterwords, he basically was accepted being PhD candidate in EPFL. 

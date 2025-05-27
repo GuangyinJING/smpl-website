@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/post/20250523-TianDefense/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -171,15 +171,20 @@
   },
   "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
+    "public/post/20250523-tiandefense/featured_hu_255eac90b9a91abf.webp",
+    "resources/_gen/images/post/20250523-tiandefense/featured_hu_255eac90b9a91abf.webp",
+    "resources/_gen/images/post/20250523-tiandefense/featured_hu_b6a3029fa3663ebe.jpg",
     "content/post/20250523-TianDefense/featured.jpg",
+    "content/post/20250326JPCBpaper/index.md",
+    "content/post/2025GuanshanMuchang/index.md",
     "content/post/20250523-TianDefense/index.md",
+    "content/post/2025GuanshanMuchang/featured.jpg",
     "content/_index.md",
     "content/authors/FanglongDANG/_index.md",
     "public/author/fanglong-dang/WobbleFlow.jpg",
     "content/authors/FanglongDANG/WobbleFlow.jpg",
     "public/author/fanglong-dang/figure1.pdf",
     "content/authors/FanglongDANG/figure1.pdf",
-    "content/post/2025GuanshanMuchang/index.md",
     "content/admin/index.md",
     "content/authors/XuanRUO/_index.md",
     "content/authors/YananLIU/_index.md",
@@ -192,12 +197,8 @@
     "public/author/yannan-liu",
     "content/authors/WeiFENG/_index.md",
     "public/author/wei-feng/avatar_hu_ee00a6b71431cf7e.jpg",
-    "resources/_gen/images/author/wei-feng/avatar_hu_ee00a6b71431cf7e.jpg",
     "resources/_gen/images/author/wei-feng",
-    "public/author/wei-feng/avatar.jpg",
     "content/authors/HaoLUO/_index.md",
-    "public/author/hao-luo/avatar_hu_c00a084f573ed1ee.jpg",
-    "resources/_gen/images/author/hao-luo/avatar_hu_c00a084f573ed1ee.jpg",
     "resources/_gen/images/author/hao-luo",
     "content/authors/Tianyu REN/_index.md",
     "public/author/tianyu-ren/index.xml",
@@ -216,7 +217,6 @@
     "content/publication/fu-2011-strain/index.md",
     "content/publication/xing-2005-electrical/index.md",
     "content/publication/jing-2006-study/index.md",
-    "content/publication/jing-2010-drying/index.md",
     "notes/Untitled.canvas",
     "notes/Untitled 1.canvas"
   ]
