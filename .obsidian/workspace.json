@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/post/20250523-TianDefense/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -171,13 +171,15 @@
   },
   "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
+    "content/post/20250523-TianDefense/featured.jpg",
+    "content/post/20250523-TianDefense/index.md",
+    "content/_index.md",
     "content/authors/FanglongDANG/_index.md",
     "public/author/fanglong-dang/WobbleFlow.jpg",
     "content/authors/FanglongDANG/WobbleFlow.jpg",
     "public/author/fanglong-dang/figure1.pdf",
     "content/authors/FanglongDANG/figure1.pdf",
     "content/post/2025GuanshanMuchang/index.md",
-    "content/_index.md",
     "content/admin/index.md",
     "content/authors/XuanRUO/_index.md",
     "content/authors/YananLIU/_index.md",
@@ -215,7 +217,6 @@
     "content/publication/xing-2005-electrical/index.md",
     "content/publication/jing-2006-study/index.md",
     "content/publication/jing-2010-drying/index.md",
-    "content/publication/han-2009-bending/index.md",
     "notes/Untitled.canvas",
     "notes/Untitled 1.canvas"
   ]
