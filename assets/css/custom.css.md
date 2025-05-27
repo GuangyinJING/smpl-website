@@ -30,3 +30,18 @@
   object-fit: contain; /* Display full image without cropping */
   object-position: center; /* Center image */
 }
+
+/* News & Events post images */
+.article-header img, .article-content img {
+  max-width: 100%;
+  height: auto;
+  image-rendering: -webkit-optimize-contrast; /* Crisp rendering */
+  image-rendering: crisp-edges; /* Prevent blurring */
+  object-fit: contain; /* Show full image */
+}
+/* Ensure high-resolution for featured images */
+.featured-image img {
+  width: 100%;
+  max-height: 700px; /* Adjust to fit layout */
+  object-fit: contain;
+}
