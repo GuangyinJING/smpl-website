@@ -29,7 +29,6 @@ url_video: ""
 slides: 
 projects: 
 sections: "Food"
-image:
 
 ---
 
