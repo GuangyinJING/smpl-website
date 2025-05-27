@@ -9,18 +9,13 @@ organizations:
     url: ""
 bio: Fanglong DANG (党方龙).
 interests:
-  - Active Matter
-  - Microswimmer
-  - Bacteria
+  - Swimming gait of bacteria
   - Collective motion
 education:
   courses:
-    - course: Master in Condensed Matter Physics
-      institution: Northweas University (西北大学)
-      year: 2025
-    - course: BSc in Physics
-      institution: Hainan Normal University (海南师范大学)
-      year: 2022
+    - course: BSc in Matherial Physics
+      institution: Northwest University (西北大学)
+      year: 2023
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,6 +31,5 @@ user_groups:
 Wobbling in flows.
 
 **Key Research Areas**:  
-- Macroscopic locomotion strategies and molecular regulation in bacteria  
-- Collective behavior and swarm intelligence in autonomous motile systems and living organisms  
-- Interactions between bacteria and biological fluids and their medical applications  
+- Wobbling pattern and mechanism in simple and complex flows  
+- Swimming pattern of individual bacteria in collective motion
