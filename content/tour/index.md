@@ -48,8 +48,9 @@ sections:
       interval: 2000
   - block: collection
     content:
-      title: Latest Preprints
-      text: ""
+      title: Force sensing of bacterial flagella motor
+      text: "How the bacteria sense the dynamic flows?"
+      image:
       count: 5
       filters:
         folders:
@@ -58,4 +59,6 @@ sections:
     design:
       view: citation
       columns: "1"     
+  content:
+  
 ---
