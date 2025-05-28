@@ -46,7 +46,7 @@ sections:
           align: right
           background:
             image:
-              filename: /assets/media/FlowingAF.png
+              filename: /images/FlowingAF.png
               filters:
                 brightness: 0.5
             position: center
