@@ -41,6 +41,21 @@ sections:
             icon_pack: fas
             text: Join Us
             url: ../contact/
+        - title: Dynamics of actin filamen in simple and biological flows
+          content: Comlex fluids, versatile boundaries, confinements
+          align: right
+          background:
+            image:
+              filename: welcome.jpg
+              filters:
+                brightness: 0.5
+            position: center
+            color: "#333"
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: Join Us
+            url: ../contact/    
     design:
       slide_height: ""
       is_fullscreen: true
