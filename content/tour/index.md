@@ -46,8 +46,7 @@ sections:
       is_fullscreen: true
       loop: false
       interval: 2000
----
- - block: collection
+  - block: collection
     content:
       title: Latest Preprints
       text: ""
@@ -59,3 +58,4 @@ sections:
     design:
       view: citation
       columns: "1"     
+---
