@@ -59,6 +59,18 @@ sections:
     design:
       view: citation
       columns: "1"     
-  content:
+  - block: collection
+    content:
+      title: Swimming gaits of growing bacteria
+      text: "How the bacteria behave when subjected to flow, boundary and at different phenotype?"
+      image:
+      count: 5
+      filters:
+        folders:
+          - publication
+        publication_type: article
+    design:
+      view: citation
+      columns: "1" 
   
 ---
