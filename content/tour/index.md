@@ -63,17 +63,10 @@ sections:
       interval: 2000
   - block: collection
     content:
-      title: Force sensing of bacterial flagella motor
-      text: "How the bacteria sense the dynamic flows?"
-      image:
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: article
-    design:
-      view: citation
-      columns: "1"     
+      title: Soft Active Matter
+      text: "Soft matter and biophysics fall under the realm of soft condensed matter physics. In 1991, the renowned theoretical physicist Pierre-Gilles de Gennes won the Nobel Prize in Physics and delivered his lecture on *Soft Matter*, thrusting this discipline into the spotlight. He brought attention to a diverse array of everyday yet often overlooked materials—such as droplets, glue, plastics, soap bubbles, biological membranes, and soft tissues in living organisms—systems once dismissed by physicists as “dirty” and unworthy of rigorous study. De Gennes transformed these into subjects of physical laws and equations, captivating generations of scientists and technologists with his unique academic charisma, compelling research style, and personal charm. Over the past two decades, building on classical soft matter physics, the physics of *active matter*—or *living matter*—has emerged as a dynamic frontier, becoming a cornerstone of condensed matter physics due to its rich and profound implications.
+      
+      Established in 2009, the Soft Matter Physics Laboratory (SMPL) at Northwest University’s School of Physics is led by key faculty members, including Professor Guangyin Jing, Professor Yanan Liu, and Associate Professor Hao Luo. The lab focuses on the emerging interdisciplinary frontiers of active matter physics and non-equilibrium physics. It investigates novel phenomena and physical mechanisms in soft matter and biophysics, with applications in swarm intelligence and medical health. Using living active matter, microorganisms, and cells as model systems, the lab employs advanced platforms such as microscopic optical imaging, pattern recognition, and independently developed technologies like high-resolution microswimmer tracking and digital microfluidic chips. By integrating perspectives from condensed matter physics, statistical physics, fluid dynamics, molecular biology, numerical computation, and mathematical modeling, the lab explores autonomous motion at small scales, elucidates the non-equilibrium characteristics of “active” energy input and conversion at the microscale, and investigates fascinating phenomena and profound questions related to information processing, feedback, and control in the intelligence of simple life forms. The lab seeks to uncover the physical principles and laws governing the transition from simple to complex and from individual to collective behaviors in active matter during life processes, as well as the evolution of life forms from lower to higher stages. These insights aim to provide physical foundations and technological solutions for practical challenges in medical health." 
   - block: collection
     content:
       title: Swimming gaits of growing bacteria
@@ -84,8 +77,4 @@ sections:
         folders:
           - publication
         publication_type: article
-    design:
-      view: citation
-      columns: "1" 
-  
 ---
