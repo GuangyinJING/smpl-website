@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/authors/YananLIU/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -171,8 +171,9 @@
   },
   "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
-    "content/tour/index.md",
     "content/authors/GuangyinJING/_index.md",
+    "content/_index.md",
+    "content/tour/index.md",
     "public/media/FlowingAF.png",
     "public/images/FlowingAF.png",
     "public/images/contact.jpg",
@@ -189,7 +190,6 @@
     "static/images",
     "public/untitled folder",
     "static/untitled folder",
-    "content/_index.md",
     "assets/css/custom.css.md",
     "content/post/20250523-TianDefense/index.md",
     "content/post/20250523-TianDefense/featured.jpg.sb-a277de4f-Jqc9Fn",
