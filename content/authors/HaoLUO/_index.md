@@ -43,6 +43,4 @@ user_groups:
   - Researchers
 ---
 
-Hao LUO (罗昊) is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hao Luo is an Associate Professor in the School of Physics at Northwest University, joining in 2016. His research centers on the motion of microswimmers in biological fluids (a key future direction), interfacial wettability control, and evaporation-driven self-assembly. He graduated with a B.S. in Physics from Northwest University in 2011 and earned his Ph.D. in Condensed Matter Physics from the same institution in 2016. Dr. Luo has published over ten SCI papers in journals such as Physical Review E, New Journal of Physics, Journal of Physical Chemistry C,  and Angewandte Chemie, and holds four national invention patents. He leads projects funded by the National Natural Science Foundation of China and Shaanxi Provincial Natural Science Foundation, received the “Northwest University Young Academic Talent” award, and teaches undergraduate courses Semiconductor Physics and Open Experimental Physics.

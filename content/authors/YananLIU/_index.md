@@ -16,29 +16,23 @@ interests:
   - Microswimmer
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Fluid Mechanics
+      institution: ESPCI, Paris 7
+      year: 2018
+    - course: MEng in Fluid Mechanics
+      institution: Northwest Polytech University
+      year: 2014
+    - course: BSc in Applied Mathematics
+      institution: Northwest Polytech University
+      year: 2011
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: yanan.liu@nwu.edu.cn
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-email: ""
+    link: https://scholar.google.com/citations?user=F5YfJioAAAAJ&hl=fr
+email: "yanan.liu at nwu.edu.cn"
 user_groups:
   - Researchers
 ---
