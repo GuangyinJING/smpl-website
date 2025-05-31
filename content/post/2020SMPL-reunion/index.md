@@ -1,11 +1,11 @@
 ---
 title: SMPL lab reunior 
-event: Wowchemy Conference
+event: 
 event_url: https://example.org
 location: Baoji, Shaanxi
 address:
-  street: Grassland
-  city: Baoji
+  street: 1 XueFu Dadao
+  city: Xi'An
   region: Shaanxi
   postcode: "710127"
   country: China
@@ -19,8 +19,8 @@ authors:
 tags: 
 featured: false
 image:
-  filename: group2020.jpg
-  caption: Grassland roaming
+  filename: assets/media/group2020.jpg
+  caption: 2020 group photo
   focal_point: Right
   preview_only: false
 url_code: ""
@@ -32,11 +32,6 @@ projects:
 sections: "Food"
 
 ---
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+We are now almost made everything fully settled down in the new space of clean room. 3D tracking system, high speed camera, and fluidic platform are all in the right place. We are also happy that we have a very nice team full of curiosity and passion.
