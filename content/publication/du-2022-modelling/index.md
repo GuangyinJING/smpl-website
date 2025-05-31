@@ -12,4 +12,5 @@ publishDate: '2025-05-26T13:36:33.960619Z'
 publication_types:
 - article-journal
 publication: '*Communications in Theoretical Physics*'
+tags: ["Statistical physics and phase transition"]
 ---

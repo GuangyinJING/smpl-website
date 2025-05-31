@@ -16,4 +16,5 @@ publishDate: '2025-05-26T13:36:33.920096Z'
 publication_types:
 - article-journal
 publication: '*Angewandte Chemie International Edition*'
+tags: ["Statistical physics and phase transition"]
 ---

@@ -10,4 +10,5 @@ publishDate: '2025-05-26T13:36:33.924523Z'
 publication_types:
 - article-journal
 publication: '*Micromachines*'
+tags: ["Lab-on-Chip and Microfluidics"]
 ---

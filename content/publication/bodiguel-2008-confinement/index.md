@@ -9,4 +9,5 @@ publishDate: '2025-05-26T13:36:33.863696Z'
 publication_types:
 - paper-conference
 publication: '*APS March Meeting Abstracts*'
+tags: ["Statistical physics and phase transition"]
 ---
