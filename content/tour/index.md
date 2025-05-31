@@ -16,7 +16,7 @@ sections:
                 brightness: 0.7
             position: right
             color: "#666"
-        - title: Swimming Bacteria - Microswimmer
+        - title: Swimming gaits
           content: Just as Aristotle once pondered why humans swing their arms while walking, we wonder for what E. coli do wobble spontaneously as they swim.
           align: left
           background:
