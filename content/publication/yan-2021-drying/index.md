@@ -11,4 +11,5 @@ publishDate: '2025-05-26T13:36:33.948965Z'
 publication_types:
 - article-journal
 publication: '*Colloids and Surfaces A: Physicochemical and Engineering Aspects.*'
+tags: ["Statistical physics and phase transition"]
 ---

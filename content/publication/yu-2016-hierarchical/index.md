@@ -17,4 +17,5 @@ publishDate: '2025-05-26T13:36:33.889787Z'
 publication_types:
 - article-journal
 publication: '*Advanced Materials Interfaces*'
+tags: ["Hard condensed matter"]
 ---

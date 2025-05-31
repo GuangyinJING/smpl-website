@@ -12,4 +12,5 @@ publishDate: '2025-05-26T13:36:34.005593Z'
 publication_types:
 - article-journal
 publication: '*New Journal of Physics*'
+tags: ["Swimming behavior at phenotype"]
 ---

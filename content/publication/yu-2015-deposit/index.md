@@ -11,4 +11,5 @@ publishDate: '2025-05-26T13:36:33.844618Z'
 publication_types:
 - article-journal
 publication: '*Modern Physics Letters B*'
+tags: ["Statistical physics and phase transition"]
 ---

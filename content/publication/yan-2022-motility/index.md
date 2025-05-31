@@ -11,4 +11,5 @@ publishDate: '2025-05-26T13:36:33.970545Z'
 publication_types:
 - article-journal
 publication: '*Crystals*'
+tags: ["Swimming behavior at phenotype"]
 ---
