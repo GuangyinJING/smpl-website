@@ -40,5 +40,5 @@ In March 2020, the Soft Matter Physics Laboratory (SMPL) came together in Xi'An 
 
 We are thrilled to have settled into our new clean room facility at Northwest University. The space is now fully equipped with a 3D tracking system, high-speed camera, and fluidic platform—all perfectly positioned to advance our experiments. Our team, brimming with curiosity and dedication, is ready to dive into groundbreaking research on soft matter and bacterial dynamics.
 
-![Clean Room](images/ExperimentBact.jpg)
+![Clean Room](ExperimentBact.jpg)
 The clean room has become the heart of our experiments, particularly those exploring bacteria swimming in complex fluids. We are optimistic about uncovering fascinating insights that could deepen our understanding of active matter and biophysics. This reunion marked not just a milestone in our lab’s setup but also a renewed commitment to collaborative and innovative science.

@@ -72,6 +72,7 @@ sections:
       title: Swimming gaits of growing bacteria
       text: "How the bacteria behave when subjected to flow, boundary and at different phenotype?"
       image:
+        filename: images/group2020.jpg
       count: 5
       filters:
         folders:
