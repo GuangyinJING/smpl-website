@@ -28,9 +28,6 @@ highlight_name: false
 user_groups:
   - Grad Students
 ---
-Swimming bacteria in blood flow.
+### Bacterial-Driven Collective Motion in Whole Blood with Concentrated RBCs
 
-**Key Research Areas**:  
-- Macroscopic locomotion strategies and molecular regulation in bacteria  
-- Collective behavior and swarm intelligence in autonomous motile systems and living organisms  
-- Interactions between bacteria and biological fluids and their medical applications  
+Motile bacteria in whole blood act as active force generators, inducing collective motion in concentrated red blood cell (RBC) suspensions (hematocrit 20-40%) that starkly contrasts with the passive behavior of RBCs in sterile blood. The self-propelled motion and flagellar activity of bacteria, such as _Escherichia coli_ or _Pseudomonas aeruginosa_, generate localized hydrodynamic flows that disrupt RBC equilibrium, leading to emergent phenomena like coherent swirls, enhanced mixing, and increased diffusivity. Microfluidic experiments and single-particle tracking reveal that bacterial swimming triggers dynamic RBC clustering with velocities of 10-20 μm/s, compared to near-static RBCs without bacteria, under low Reynolds number conditions (Re ~ 10⁻⁴). Bacteria also alter RBC aggregation and rouleaux formation, modifying blood rheology. Active matter models attribute these effects to stochastic forcing from bacterial motility, which couples with RBC-RBC hydrodynamic interactions. This bacterial-driven collective motion has implications for bloodstream infections like sepsis, potentially enhancing pathogen spread or immune responses. Future studies could investigate how bacterial density, motility patterns, and RBC mechanical properties shape these dynamics, offering insights into diagnostic or therapeutic approaches for infectious diseases.

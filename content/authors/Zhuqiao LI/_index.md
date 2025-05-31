@@ -25,17 +25,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:jing@nwu.edu.cn
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=CDtNe2IAAAAJ&hl=en
 email: jing@nwu.edu.cn
 highlight_name: false
 user_groups:
   - Grad Students
 ---
-Swimming bacteria in blood flow.
-
-**Key Research Areas**:  
-- Macroscopic locomotion strategies and molecular regulation in bacteria  
-- Collective behavior and swarm intelligence in autonomous motile systems and living organisms  
-- Interactions between bacteria and biological fluids and their medical applications  
+My project investigates the critical infection process by which _Escherichia coli_ escapes blood capillary vessels and penetrates surrounding tissue, using direct visualization under microscopy within microfluidic channels and blood vessel organ-on-chip platforms. By simulating physiological capillary environments, the study captures real-time dynamics of bacterial motility, adhesion, and transmigration through endothelial-like barriers, elucidating the biomechanical and biochemical mechanisms driving tissue invasion. This research aims to uncover key pathways of bacterial infection, offering novel insights into pathogenesis and potential therapeutic targets for preventing microbial spread in bloodstream infections.

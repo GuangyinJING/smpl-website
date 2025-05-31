@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/authors/YuliLIU/_index.md",
+                "file": "content/authors/XuanRUO/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -185,21 +185,22 @@
   },
   "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
-    "assets/media/SwimmingOrien.jpg",
+    "content/authors/Zhuqiao LI/_index.md",
+    "content/authors/YuliLIU/_index.md",
+    "public/media/SwimmingOrien_hu_22b97acc855c0adc.webp",
+    "public/media/SwimmingOrien_hu_8017ded05b888200.webp",
+    "public/media/SwimmingOrien_hu_676f22e4469edc7b.webp",
+    "resources/_gen/images/media/SwimmingOrien_hu_676f22e4469edc7b.webp",
+    "resources/_gen/images/media/SwimmingOrien_hu_8017ded05b888200.webp",
+    "resources/_gen/images/media/SwimmingOrien_hu_22b97acc855c0adc.webp",
     "content/authors/ZheFENG/_index.md",
+    "assets/media/SwimmingOrien.jpg",
     "public/media/LongTrack_hu_72c5d1cf28d8cc3d.webp",
     "public/media/LongTrack_hu_5fc9ca405206fe77.webp",
     "public/media/LongTrack_hu_cfa4f5946dadb915.webp",
-    "resources/_gen/images/media/LongTrack_hu_cfa4f5946dadb915.webp",
-    "resources/_gen/images/media/LongTrack_hu_5fc9ca405206fe77.webp",
-    "resources/_gen/images/media/LongTrack_hu_72c5d1cf28d8cc3d.webp",
     "content/authors/YangguangTIAN/_index.md",
-    "assets/media/LongTrack.jpg",
     "content/authors/YuhePU/_index.md",
     "content/authors/ZhihanYE/_index.md",
-    "public/media/ActiveVortes_hu_e5cde7b9234c2bcd.webp",
-    "public/media/ActiveVortes_hu_c23fadab8f162da6.webp",
-    "public/media/ActiveVortes_hu_6442a48778cef7b1.webp",
     "content/post/2020SMPL-reunion/index.md",
     "content/tour/index.md",
     "content/_index.md",
@@ -231,7 +232,6 @@
     "content/authors/YananLIU/_index.md",
     "assets/css/custom.css.md",
     "content/authors/XuanRUO/_index.md",
-    "content/people/index.md",
-    "content/contact/index.md"
+    "content/people/index.md"
   ]
 }
