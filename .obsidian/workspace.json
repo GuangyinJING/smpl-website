@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/authors/HaoLUO/_index.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "_index"
             }
+          },
+          {
+            "id": "bc189391e7408edd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2025GuanshanMuchang/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,13 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8303f09fd31e79c",
+  "active": "bc189391e7408edd",
   "lastOpenFiles": [
-    "content/authors/YananLIU/_index.md",
-    "content/authors/HaoLUO/_index.md",
-    "content/authors/GuangyinJING/_index.md",
     "content/_index.md",
     "content/tour/index.md",
+    "content/post/2025GuanshanMuchang/index.md",
+    "content/post/2020SMPL-reunion/index.md",
+    "content/authors/HaoLUO/_index.md",
+    "content/post/2020SMPL-reunion/featured.jpg",
+    "content/post/2020SMPL-reunion/MeatFood.jpg",
+    "content/post/2020SMPL-reunion",
+    "content/authors/YananLIU/_index.md",
+    "content/authors/GuangyinJING/_index.md",
     "public/media/FlowingAF.png",
     "public/images/FlowingAF.png",
     "public/images/contact.jpg",
@@ -184,8 +204,6 @@
     "public/images/wobble.png",
     "public/images/icon.png",
     "public/images/smplLog.png",
-    "public/images/tn.png",
-    "public/images/BacteriaGaits.png",
     "public/images/icons",
     "static/images/icons",
     "public/images",
@@ -197,9 +215,7 @@
     "content/post/20250523-TianDefense/featured.jpg.sb-a277de4f-Jqc9Fn",
     "public/manifest.webmanifest",
     "public/publication-type/article-journal/index.xml",
-    "public/publication/index.xml",
     "content/authors/FanglongDANG/_index.md",
-    "content/post/2025GuanshanMuchang/index.md",
     "content/post/20250326JPCBpaper/index.md",
     "content/admin/index.md",
     "content/authors/XuanRUO/_index.md",
