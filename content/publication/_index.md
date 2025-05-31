@@ -3,7 +3,7 @@ title: SMPL Publications
 
 # Listing view
 view: citation
-
+group_by: tags
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: 'Overview of SMPL research'

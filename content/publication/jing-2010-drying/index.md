@@ -12,4 +12,5 @@ publishDate: '2025-05-26T13:36:33.770027Z'
 publication_types:
 - article-journal
 publication: '*Langmuir*'
+tags: ["Lab-on-Chip and Microfluidics"]
 ---

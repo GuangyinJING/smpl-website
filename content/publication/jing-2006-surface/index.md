@@ -15,4 +15,5 @@ publishDate: '2025-05-26T13:36:33.757930Z'
 publication_types:
 - article-journal
 publication: '*Physical Review B*'
+tags: ["Hard condensed matter"]
 ---
