@@ -9,10 +9,8 @@ organizations:
     url: ""
 bio: Yuhe PU (蒲雨荷).
 interests:
-  - Active Matter
-  - Microswimmer
-  - Bacteria
-  - Collective motion
+  - Flow sensing of bacterial flagella motor
+  - Adaption of BFM to shear flow
 education:
   courses:
     - course: Master in Condensed Matter Physics
@@ -33,9 +31,8 @@ highlight_name: false
 user_groups:
   - Grad Students
 ---
-Flow sensing of bacterial flagellum motor.
+**Flow sensing of bacterial flagellum motor**
 
-**Key Research Areas**:  
 - Macroscopic locomotion strategies and molecular regulation in bacteria  
 - Collective behavior and swarm intelligence in autonomous motile systems and living organisms  
 - Interactions between bacteria and biological fluids and their medical applications  
