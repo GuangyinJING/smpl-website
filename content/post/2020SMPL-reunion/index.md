@@ -29,13 +29,12 @@ url_slides: ""
 url_video: ""
 slides: 
 projects: 
-sections: "Food"
+sections: 
 
 ---
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
 We are now almost made everything fully settled down in the new space of clean room. 3D tracking system, high speed camera, and fluidic platform are all in the right place. We are also happy that we have a very nice team full of curiosity and passion.
 
-
-
-  ![Hiking at Guanshan Ranch](assets/media/grassland-hiking.jpg)
+![Hiking at Guanshan Ranch](assets/media/ExperimentBact.jpg)
+We all like the clean room. Hopefully, we could find something interesting from the experiments of bacteria swimming in complex fluids.
