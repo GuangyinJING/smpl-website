@@ -13,7 +13,26 @@ summary: Visit grass land—wellfire for Yangguang, Ruoxuan, 2025 graduation sea
 abstract: |
   ## Summer Outing to Guanshan Ranch: A Journey into Nature and Fellowship
 
-  In the heart of Shaanxi Province lies Guanshan Ranch, a vast and serene grassland in Baoji that offers an escape from the bustle of city life. This summer, our research group at the Soft Matter Physics Laboratory (SMPL) organized a memorable retreat to this beautiful location. The goal was simple yet meaningful: to embrace nature, refresh our minds, and strengthen the bonds between students and faculty beyond the walls of the laboratory.
+  
+date: 2025-05-21
+date_end: 2025-05-22T17:00:00Z
+all_day: false
+publishDate: 2025-05-26T00:00:00Z
+authors: 
+tags: ["team-building", "outing", "graduation"]
+featured: false
+image:
+  caption: Grassland roaming
+  focal_point: Right
+  preview_only: false
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+slides: ""
+projects: []
+---
+In the heart of Shaanxi Province lies Guanshan Ranch, a vast and serene grassland in Baoji that offers an escape from the bustle of city life. This summer, our research group at the Soft Matter Physics Laboratory (SMPL) organized a memorable retreat to this beautiful location. The goal was simple yet meaningful: to embrace nature, refresh our minds, and strengthen the bonds between students and faculty beyond the walls of the laboratory.
 
   The journey began on a clear summer morning. As we ascended the winding roads into the mountains, the air grew cooler, and the distant stretches of green pasture came into view. Guanshan’s natural beauty was immediately striking—rolling hills, open skies, and a sense of tranquility rarely found elsewhere. Upon arrival, we were greeted by the fresh scent of grass and a welcome breeze, a pleasant contrast to the city’s summer heat.
 
@@ -30,22 +49,3 @@ abstract: |
   The outing to Guanshan Ranch was more than just a break from routine. It reminded us of the importance of balance in academic life—of stepping outside, looking at the stars, and appreciating the people we work with every day. Such shared experiences help foster a supportive and united lab culture, one where collaboration and friendship go hand in hand with scientific exploration.
 
   We returned from the trip not only refreshed but also more connected as a team. The laughter, the hikes, the night sky, and the shared meals will remain part of our collective memory, encouraging us to move forward—together—as a research group, both in the lab and beyond.
-date: 2025-05-21
-date_end: 2025-05-22T17:00:00Z
-all_day: false
-publishDate: 2025-05-26T00:00:00Z
-authors: ["GJ"]
-tags: ["team-building", "outing", "graduation"]
-featured: false
-image:
-  caption: Grassland roaming
-  focal_point: Right
-  filename: images/grassland-main.jpg
-  preview_only: false
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-slides: ""
-projects: []
----

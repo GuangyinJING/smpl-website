@@ -35,7 +35,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,14 +184,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8303f09fd31e79c",
+  "active": "bc189391e7408edd",
   "lastOpenFiles": [
+    "content/post/2020SMPL-reunion/index.md",
+    "content/post/2025GuanshanMuchang/index.md",
+    "assets/media/2023DoiSeminar.JPG",
+    "assets/media/2023Doi报告.JPG",
     "content/post/2020SMPL-reunion/featured.jpg",
     "content/post/2020SMPL-reunion/MeatFood.jpg",
-    "content/post/2020SMPL-reunion/index.md",
     "assets/media/group2020.JPG",
     "assets/media/2020集体照.JPG",
-    "content/post/2025GuanshanMuchang/index.md",
     "content/post/2025GuanshanMuchang/featured.jpg",
     "content/_index.md",
     "assets/media/grassland-hiking.jpg",
@@ -202,9 +205,6 @@
     "public/author/gj/index.xml",
     "public/post/2020smpl-reunion/index.html",
     "public/post/2020smpl-reunion/featured_hu_d84df966dc838ba1.webp",
-    "public/post/2020smpl-reunion/featured_hu_93f86fc2fdcee12f.webp",
-    "public/post/2020smpl-reunion/featured_hu_a9233ba8295c39c4.webp",
-    "resources/_gen/images/post/2020smpl-reunion/featured_hu_d84df966dc838ba1.webp",
     "public/tag/team-building/page/1/index.html",
     "public/tag/team-building/page/1",
     "public/tag/team-building/index.html",
