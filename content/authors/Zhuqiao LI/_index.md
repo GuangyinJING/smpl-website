@@ -9,10 +9,8 @@ organizations:
     url: ""
 bio: Zhuqiao LI (李竹荞).
 interests:
-  - Active Matter
-  - Microswimmer
-  - Bacteria
-  - Collective motion
+  - Bacteria-Cell interaction
+  - Mechanobiology of bacteria
 education:
   courses:
     - course: Master in Condensed Matter Physics
