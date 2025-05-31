@@ -44,8 +44,10 @@ In the heart of Shaanxi Province lies Guanshan Ranch, a vast and serene grasslan
 
   As the sun dipped below the horizon, the sky transitioned into a canvas of stars. Under this glittering dome, we enjoyed a hearty dinner featuring grilled lamb, a local specialty that was both delicious and fitting for the grassland setting. Sitting together in a circle, we talked about everything—from science and philosophy to family and life dreams. These conversations, shared in the warmth of the fire and the coolness of the mountain night, deepened our mutual understanding and trust.
 
-  ![Starry Night Dinner](assets/media/MeatFood.jpg)
+  ![Flying Kite on grass land](assets/media/GrassLandKite.jpg)
 
   The outing to Guanshan Ranch was more than just a break from routine. It reminded us of the importance of balance in academic life—of stepping outside, looking at the stars, and appreciating the people we work with every day. Such shared experiences help foster a supportive and united lab culture, one where collaboration and friendship go hand in hand with scientific exploration.
 
   We returned from the trip not only refreshed but also more connected as a team. The laughter, the hikes, the night sky, and the shared meals will remain part of our collective memory, encouraging us to move forward—together—as a research group, both in the lab and beyond.
+  ---
+  
