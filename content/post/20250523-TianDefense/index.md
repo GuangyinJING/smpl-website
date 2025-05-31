@@ -1,7 +1,8 @@
 ---
 title: Congratulations to Yangguang TIAN, for his success of Master degree, and PhD position in EPFL
 date: 2025-05-23
-authors:
+authors: 
+ [JING]
 tags:
   - event
   - DefenseMaster

@@ -15,7 +15,7 @@ date: 2020-03-21
 date_end: 2020-03-22T17:00:00Z
 all_day: false
 publishDate: 2025-05-26T00:00:00Z
-authors: 
+authors: [JING]
 tags: 
 featured: false
 image:

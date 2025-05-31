@@ -18,7 +18,7 @@ date: 2025-05-21
 date_end: 2025-05-22T17:00:00Z
 all_day: false
 publishDate: 2025-05-26T00:00:00Z
-authors: 
+authors: [JING]
 tags: ["team-building", "outing", "graduation"]
 featured: false
 image:
