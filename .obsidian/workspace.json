@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/yan-2021-drying/index.md",
+                "file": "content/publication/_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           }
         ],
@@ -186,6 +186,10 @@
   },
   "active": "fb8787831eb8da0c",
   "lastOpenFiles": [
+    "content/publication/zou-2009-mechanical/index.md",
+    "content/publication/_index.md",
+    "content/publication/yan-2021-drying/index.md",
+    "content/publication/jin-2019-pressure/index.md",
     "content/publication/yan-2022-motility/index.md",
     "content/publication/yan-2023-bacterial/index.md",
     "content/publication/yu-2015-deposit/index.md",
@@ -217,11 +221,7 @@
     "content/publication/jing-2010-drying/index.md",
     "content/publication/zottl-2020-theoretical/index.md",
     "content/publication/zou-2008-synthesis/index.md",
-    "content/publication/zou-2009-mechanical/index.md",
-    "content/publication/_index.md",
     "content/people/index.md",
-    "content/publication/jin-2019-pressure/index.md",
-    "content/publication/jing-2010-effect/index.md",
     "public/media/SwimmingOrien_hu_22b97acc855c0adc.webp",
     "public/media/SwimmingOrien_hu_8017ded05b888200.webp",
     "public/media/SwimmingOrien_hu_676f22e4469edc7b.webp",
