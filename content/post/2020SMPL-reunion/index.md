@@ -1,5 +1,5 @@
 ---
-title: SMPL lab reunior 
+title: 2020 SMPL lab reunion 
 event: 
 event_url: https://example.org
 location: Baoji, Shaanxi
@@ -19,7 +19,7 @@ authors:
 tags: 
 featured: false
 image:
-  filename: /group2020.jpg
+  filename: images/group2020.jpg
   caption: 2020 group photo
   focal_point: Right
   preview_only: false
@@ -34,7 +34,11 @@ sections:
 ---
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
-We are now almost made everything fully settled down in the new space of clean room. 3D tracking system, high speed camera, and fluidic platform are all in the right place. We are also happy that we have a very nice team full of curiosity and passion.
+In March 2020, the Soft Matter Physics Laboratory (SMPL) came together in Xi'An for a joyful reunion, celebrating our shared passion for practice, exploration, and scientific discovery. This gathering was a moment to reflect on our progress, strengthen our team bonds, and embrace the excitement of new beginnings in our research journey.
 
-![Hiking at Guanshan Ranch](assets/media/ExperimentBact.jpg)
-We all like the clean room. Hopefully, we could find something interesting from the experiments of bacteria swimming in complex fluids.
+  
+
+We are thrilled to have settled into our new clean room facility at Northwest University. The space is now fully equipped with a 3D tracking system, high-speed camera, and fluidic platform—all perfectly positioned to advance our experiments. Our team, brimming with curiosity and dedication, is ready to dive into groundbreaking research on soft matter and bacterial dynamics.
+
+![Clean Room](images/ExperimentBact.jpg)
+The clean room has become the heart of our experiments, particularly those exploring bacteria swimming in complex fluids. We are optimistic about uncovering fascinating insights that could deepen our understanding of active matter and biophysics. This reunion marked not just a milestone in our lab’s setup but also a renewed commitment to collaborative and innovative science.
