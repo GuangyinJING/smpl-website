@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/authors/WeiFENG/_index.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -185,6 +185,17 @@
   },
   "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
+    "content/authors/WeiFENG/_index.md",
+    "public/author/wei-feng/BacteriaGaits_hu_3ff8fe7162e1b18a.webp",
+    "public/author/wei-feng/BacteriaGaits_hu_e697ee4adc15e311.webp",
+    "public/author/wei-feng/BacteriaGaits_hu_aea50a87eacc5aa6.webp",
+    "resources/_gen/images/author/wei-feng/BacteriaGaits_hu_aea50a87eacc5aa6.webp",
+    "resources/_gen/images/author/wei-feng/BacteriaGaits_hu_e697ee4adc15e311.webp",
+    "resources/_gen/images/author/wei-feng/BacteriaGaits_hu_3ff8fe7162e1b18a.webp",
+    "public/author/wei-feng/BacteriaGaits.png",
+    "content/authors/WeiFENG/BacteriaGaits.png",
+    "assets/media/BacteriaGaits.png.sb-88434d7e-ekvqp2",
+    "content/post/2020SMPL-reunion/index.md",
     "content/authors/Tianyu REN/_index.md",
     "content/authors/MaoyuanXU/_index.md",
     "content/authors/JiaqiZHAO/_index.md",
@@ -194,13 +205,6 @@
     "content/tour/index.md",
     "public/author/fanglong-dang/WobbleFlow_hu_7b41f0bcc02a1aba.webp",
     "public/author/fanglong-dang/WobbleFlow_hu_ab34c80c8039a2b7.webp",
-    "public/author/fanglong-dang/WobbleFlow_hu_7236db503c94901c.webp",
-    "resources/_gen/images/author/fanglong-dang/WobbleFlow_hu_7236db503c94901c.webp",
-    "resources/_gen/images/author/fanglong-dang/WobbleFlow_hu_ab34c80c8039a2b7.webp",
-    "resources/_gen/images/author/fanglong-dang/WobbleFlow_hu_7b41f0bcc02a1aba.webp",
-    "content/authors/FanglongDANG/WobbleFlow.jpg",
-    "content/post/2020SMPL-reunion/index.md",
-    "content/authors/FanglongDANG/avatar.jpg",
     "content/post/2025GuanshanMuchang/index.md",
     "content/post/20250326JPCBpaper/index.md",
     "content/post/20250523-TianDefense/index.md",
@@ -217,21 +221,16 @@
     "notes/Untitled.canvas",
     "index.md",
     "public/tag/new-pa/index.xml",
-    "public/tag/new-pa/page/1/index.html",
-    "public/post/20250326jpcbpaper/featured_hu_ac701ef1d13c7c33.webp",
-    "resources/_gen/images/post/20250326jpcbpaper/featured_hu_ac701ef1d13c7c33.webp",
     "Untitled.md",
     "content/_index.md",
     "content/authors/YananLIU/_index.md",
     "assets/css/custom.css.md",
     "content/authors/XuanRUO/_index.md",
-    "content/authors/WeiFENG/_index.md",
     "content/authors/YangguangTIAN/_index.md",
     "content/people/index.md",
     "content/contact/index.md",
     "content/publication/_index.md",
     "content/publication/zou-2009-mechanical/index.md",
-    "content/publication/preprint/index.md",
-    "content/publication/jing-2006-surface/index.md"
+    "content/publication/preprint/index.md"
   ]
 }
