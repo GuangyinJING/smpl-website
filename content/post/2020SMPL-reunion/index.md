@@ -19,7 +19,7 @@ authors:
 tags: 
 featured: false
 image:
-  filename: assets/media/group2020.jpg
+  filename: /group2020.jpg
   caption: 2020 group photo
   focal_point: Right
   preview_only: false
