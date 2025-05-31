@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/post/2020SMPL-reunion/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +183,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc189391e7408edd",
+  "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
+    "assets/media/group2020.JPG",
+    "assets/media/2020集体照.JPG",
+    "content/post/2025GuanshanMuchang/index.md",
+    "content/post/2025GuanshanMuchang/featured.jpg",
+    "content/post/2020SMPL-reunion/index.md",
+    "content/_index.md",
+    "assets/media/grassland-hiking.jpg",
+    "assets/media/DSC_8194.JPG.sb-88434d7e-LzUEc2",
+    "assets/media/DSC_8194.JPG",
     "public/tag/team-building/index.xml",
     "public/tag/outing/index.xml",
     "public/tag/graduation/index.xml",
@@ -200,17 +208,8 @@
     "public/tag/team-building/page/1",
     "public/tag/team-building/index.html",
     "public/tag/team-building/page",
-    "public/tag/team-building",
-    "public/tag/outing/page/1/index.html",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_93f86fc2fdcee12f.webp",
-    "resources/_gen/images/post/2020smpl-reunion/featured_hu_5e7a49c2328376b7.jpg",
-    "resources/_gen/images/post/2020smpl-reunion/featured_hu_aad3cedd8a34ecb9.jpg",
-    "public/post/2020smpl-reunion/featured.jpg",
-    "public/post/2020smpl-reunion/MeatFood.jpg",
-    "content/_index.md",
     "content/tour/index.md",
-    "content/post/2025GuanshanMuchang/index.md",
-    "content/post/2020SMPL-reunion/index.md",
     "content/authors/HaoLUO/_index.md",
     "content/authors/YananLIU/_index.md",
     "content/authors/GuangyinJING/_index.md",

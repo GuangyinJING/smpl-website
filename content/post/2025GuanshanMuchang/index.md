@@ -19,15 +19,13 @@ abstract: |
 
   One of the highlights of the trip was hiking together through the surrounding hills. The trail, though challenging in parts, offered breathtaking views of the expansive grasslands and distant mountain peaks. Climbing as a group fostered a sense of teamwork and mutual encouragement. Along the way, we laughed, shared stories, and took in the peaceful surroundings. The experience was a physical and emotional recharge for everyone.
 
-  ![Hiking at Guanshan Ranch](images/grassland-hiking.jpg)
+  ![Hiking at Guanshan Ranch](assets/media/grassland-hiking.jpg)
 
   During the afternoon, we gathered to play cards and enjoy casual games in the open field. It was a rare chance for everyone—from new graduate students to senior lab members—to interact in a relaxed setting. In these moments, we rediscovered each other beyond research roles: as teammates, friends, and fellow adventurers. The playful atmosphere lightened the mood and created lasting memories.
 
-  ![Card Games in the Field](images/grassland-games.jpg)
-
   As the sun dipped below the horizon, the sky transitioned into a canvas of stars. Under this glittering dome, we enjoyed a hearty dinner featuring grilled lamb, a local specialty that was both delicious and fitting for the grassland setting. Sitting together in a circle, we talked about everything—from science and philosophy to family and life dreams. These conversations, shared in the warmth of the fire and the coolness of the mountain night, deepened our mutual understanding and trust.
 
-  ![Starry Night Dinner](images/MeatFood.jpg)
+  ![Starry Night Dinner](assets/media/MeatFood.jpg)
 
   The outing to Guanshan Ranch was more than just a break from routine. It reminded us of the importance of balance in academic life—of stepping outside, looking at the stars, and appreciating the people we work with every day. Such shared experiences help foster a supportive and united lab culture, one where collaboration and friendship go hand in hand with scientific exploration.
 
