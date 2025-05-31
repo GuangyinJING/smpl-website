@@ -9,16 +9,14 @@ organizations:
     url: ""
 bio: Jiaqi ZHAO (赵嘉祺).
 interests:
-  - Active Matter
-  - Microswimmer
-  - Bacteria
-  - Collective motion
+  - Bacterial motility
+  - Early stage of iofilm formation
 education:
   courses:
-    - course: Master in Condensed Matter Physics
+    - course: Master student in Biology
       institution: Northweas University (西北大学)
-      year: 2025
-    - course: BSc in Physics
+      year: 2024
+    - course: BSc in Biology
       institution: Hainan Normal University (海南师范大学)
       year: 2022
 social:

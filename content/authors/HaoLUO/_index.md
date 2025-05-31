@@ -7,13 +7,12 @@ authors:
 superuser: false
 role: Associate Professor of Physics
 organizations:
-  - name: Stanford University
+  - name: Northwest University
     url: ""
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am working in the SMPL group of School of Physics since 2016 after my PhD study. My topics maintly aling to the bacterial interaction with cells and tissue, for the purpose of medical application, including filter of bacteria in tubing and channel, and the infection of bacteria inside capillary vessel.
 interests:
-  - Actin fillament
-  - Active flow
-  - Microswimmer
+  - Bacterial interaction with cells
+  - Swimming bacteria in blood flow and capillary vessel
 education:
   courses:
     - course: PhD in Condensed Matter Physics
