@@ -31,12 +31,6 @@ highlight_name: false
 user_groups:
   - Grad Students
 ---
-Motility in biofilm formation.
-
-**Key Research Areas**:  
-- Macroscopic locomotion strategies and molecular regulation in bacteria  
-- Collective behavior and swarm intelligence in autonomous motile systems and living organisms  
-- Interactions between bacteria and biological fluids and their medical applications  
 
 ### Modulation of Bacterial Flagellar Dynamics Near Surfaces in Biofilm Initiation
 
