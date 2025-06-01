@@ -1,6 +1,5 @@
 ---
-title: Optically Fabricated Gradient Nanochannel Array to Access Translocation Dynamics
-  of T4-phage DNA Through Nanoconfinement
+title: Optically Fabricated Gradient Nanochannel Array to Access Translocation Dynamics of T4-phage DNA Through Nanoconfinement
 authors:
 - Chen Zhang
 - Jiaqing Hou

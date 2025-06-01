@@ -24,10 +24,13 @@ Explore our research on bacterial swimming and rheotaxis.
 - [Swimming Modes of Bacteria Escaping from a Soft Confined Space](/publication/tian-2024-swimming/) (*Langmuir*, 2024)
 - [Microswimmer as active colloids](/publication/jing-2024-swimming/) (*Book Chapter: Active Colloids: From Fundamentals to Frontiers*, 2024)
 - [Direct Observation of Nanotracer Transport in Swarming Bacteria during Antibiotic Adaptation](/publication/wen-2023-direct/) (*ACS nano*, 2023)
+- [Swimming of buoyant bacteria in quiescent medium and shear flows](/publication/zheng-2023-swimming/) (*Langmuir*, 2023)
 - [Bacterial turbulence in gradient confinement](/publication/yan-2023-bacterial/) (*Chinese Physics B*, 2023)
+- [Escaping behavior of sperm on biomimetic oviductal surface](/publication/yu-2023-escaping/) (*Anal. Chem.*, 2023)
 - [Cervix chip mimicking cervical microenvironment for quantifying sperm locomotion](/publication/yu-2022-cervix/) (*Biosensors and Bioelectronics*, 2022)
 - [Activity-Induced Enhancement of Superdiffusive Transport in Bacterial Turbulence](/publication/xie-2022-activity/) (*Micromachines*, 2022)
 - [Chirality-induced bacterial rheotaxis in bulk shear flows](/publication/jing-2020-chirality/) (*Science Advances*, 2020)
+- [Label-Free Visualization of Carbapenemase Activity in Living Bacteria](/publication/zhang-2018-label/) (*Angew. Chem.*, 2018)
   
 
 ## Mechanobiology of cells
@@ -45,6 +48,8 @@ Studies on the mechanical properties of cells and their interactions.
 - [Personalized Vascularized Tumor Organoid-on-a-Chip for Tumor Metastasis and
   Therapeutic Targeting Assessment](/publication/du-2024-personalized/) (*Advanced Matterials*, 2024)
 - [Revolutionizing Wound Healing: Ultrashort Pulse Electric Fields in Seconds for Highly Aligned Extracellular Matrix and Efficient Cell Migration](/publication/xiang-2023-revolutionizing/) (*Chemical Engineering Journal*, 2023)
+- [Directional-to-Random Transition of Cell Cluster Migration](/publication/zeng-2023-directional/)(*Chinese Physics B*, 2023)
+- [Configurational dynamics of flexible filaments in bacterial active bath](/publication/zhang-2023-configurational/)(*New Journal of Physics*, 2023)
 
   
 
@@ -99,10 +104,13 @@ Investigations into collective behavior and swarm intelligence.
 - [From Chips-in-Lab to Point-of-Care Live Cell Device: Development of a Microfluidic Device for On-Site Cell Culture and High-Throughput Drug Screening](/publication/feng-2023-stand/)(*ACS Biomaterials Science & Engin*, 2023)
 - [A fluidic platform for mobility evaluation of zebrafish with gene deficiency](/publication/jia-2023-fluidic/)(*Frontiers in Molecular Neuroscience*, 2023)
 - [Glycerol Droplet Spreading on Growing Bacillus Subtilis Biofilms](/publication/luo-2023-glycerol/)(*Micromachines*, 2023)
+- [Optically Fabricated Gradient Nanochannel Array to Access Translocation Dynamics of T4-phage DNA Through Nanoconfinement](/publication/zhang-2023-optically/)(*Lab on a Chip*, 2023)
 - [Local evaporation flux of deformed liquid drops](/publication/jia-2021-local/)(*arXiv preprint arXiv:2108.07588*, 2021)
+- [Drops sliding on non-SLIPS structures](/publication/zhang-2021-drops/)(*Langmuir*, 2021)
 - [Direct observation of nanoparticle multiple-ring pattern formation during droplet evaporation with dark-field microscopy](/publication/li-2016-direct/)(*Physical Chemistry Chemical Physics*, 2021)
 - [Drying crack patterns of sessile drops with tuned contact line](/publication/yan-2021-drying/)(*Colloids and Surfaces A*, 2021)
 -  [Tunable Growth of ZnO Nanostructures on the Inner Wall of Capillary Tubes](/publication/luo-2019-tunable/)(*The Journal of Physical Chemistry C*, 2019)
+- [Controlling the Localization of Liquid Droplets in Polymer Matrices by Evaporative Lithography](/publication/zhao-2016-controlling/)(*Angewandte Chemie International Edition*, 2016)
 -  [Evaporation-induced failure of hydrophobicity](/publication/luo-2016-evaporation/)(*Physical Review Fluids*, 2016)
 - [Surface roughness induced cracks of the deposition film from drying colloidal suspension](/publication/liu-2016-surface/)(*The European Physical Journal E*, 2016)
 -  [Two-step wetting transition on ZnO nanorod arrays](/publication/luo-2015-two/)(*Applied Surface Science*, 2015)

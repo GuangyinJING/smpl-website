@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/yu-2022-cervix/index.md",
+                "file": "content/publication/zheng-2023-swimming/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -35,8 +35,7 @@
               "title": "_index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "542c6eedee03abdd",
+  "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
-    "content/publication/yu-2022-cervix/index.md",
     "content/publication/_index.md",
+    "content/publication/zheng-2023-swimming/index.md",
+    "content/publication/zhao-2016-controlling/index.md",
+    "content/publication/zhao-2023-quad/index.md",
+    "content/publication/zhang-2023-optically/index.md",
+    "content/publication/zhang-2023-configurational/index.md",
+    "content/publication/zhang-2021-drops/index.md",
+    "content/publication/zhang-2018-label/index.md",
+    "content/publication/zeng-2023-directional/index.md",
+    "content/publication/zhan-2018-surface/index.md",
+    "content/publication/yu-2023-escaping/index.md",
+    "content/publication/yu-2022-cervix/index.md",
     "content/publication/yan-2023-bacterial/index.md",
     "content/publication/yu-2016-hierarchical/index.md",
     "content/publication/yu-2015-fabrication/index.md",
@@ -202,16 +211,6 @@
     "content/publication/xu-2012-amplified/index.md",
     "content/publication/xu-2006-effects/index.md",
     "content/publication/xu-2004-surface/index.md",
-    "content/publication/xie-2022-activity/index.md",
-    "content/publication/xiang-2023-revolutionizing/index.md",
-    "content/publication/wen-2023-direct/index.md",
-    "content/publication/wang-2024-transpiration/index.md",
-    "content/publication/tian-2024-swimming/index.md",
-    "content/publication/shi-2025-quad/index.md",
-    "content/publication/ma-2014-coupling/index.md",
-    "content/publication/ren-2013-pre/index.md",
-    "content/publication/meng-2024-electrokinetic/index.md",
-    "content/publication/ma-2012-possible/index.md",
     "publication",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_f194398b5004d11b.webp",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_c21052f391330fa1.JPG",

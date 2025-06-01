@@ -1,6 +1,5 @@
 ---
-title: Controlling the Localization of Liquid Droplets in Polymer Matrices by Evaporative
-  Lithography
+title: Controlling the Localization of Liquid Droplets in Polymer Matrices by Evaporative Lithography
 authors:
 - Huaixia Zhao
 - Jiajia Xu
