@@ -1,6 +1,5 @@
 ---
-title: 'Discovery and regulation of chiral magnetic solitons: Exact solution from
-  Landau-Lifshitz-Gilbert equation'
+title: 'Discovery and regulation of chiral magnetic solitons: Exact solution from Landau-Lifshitz-Gilbert equation'
 authors:
 - Xin-Wei Jin
 - Zhan-Ying* Yang

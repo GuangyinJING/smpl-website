@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/jin-2019-pressure/index.md",
+                "file": "content/publication/jin-2024-pulse/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -186,8 +186,11 @@
   },
   "active": "d447ed9992ec5ff2",
   "lastOpenFiles": [
-    "content/publication/jin-2019-pressure/index.md",
+    "content/publication/jin-2024-pulse/index.md",
     "content/publication/_index.md",
+    "content/publication/jin-2024-hidden/index.md",
+    "content/publication/jin-2023-discovery/index.md",
+    "content/publication/jin-2019-pressure/index.md",
     "content/publication/jia-2023-fluidic/index.md",
     "content/publication/jia-2021-local/index.md",
     "content/publication/jia-2020-air/index.md",
@@ -210,8 +213,6 @@
     "content/publication/zheng-2023-swimming/index.md",
     "content/publication/yan-2023-bacterial/index.md",
     "content/publication/yan-2022-motility/index.md",
-    "content/publication/che-2021-dynamic/index.md",
-    "content/publication/jing-2010-effect/index.md",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_f194398b5004d11b.webp",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_c21052f391330fa1.JPG",
     "resources/_gen/images/post/20250326jpcbpaper/featured_hu_4e4ada8a3259afa9.webp",
@@ -231,7 +232,6 @@
     "resources/_gen/images/post/20250523-tiandefense",
     "resources/_gen/images/post",
     "resources/_gen/images/author/zhihan-ye",
-    "content/publication/yu-2015-fabrication/index.md",
     "notes/Untitled 1.canvas",
     "notes/Untitled.canvas"
   ]

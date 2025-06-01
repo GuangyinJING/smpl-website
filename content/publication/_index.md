@@ -66,13 +66,17 @@ Investigations into collective behavior and swarm intelligence.
 {{% /callout %}}
 
 - [Quad-cascade picture of electrokinetic turbulence](/publication/shi-2025-quad-cascade/) (*Physics of Fluids*, 2025)
-
-- [Confinement effects on the dynamics of polymers](/publication/bodiguel-2008-confinement/) (*APS March Meeting Abstracts*, 2008)
-
+- [Hidden chiral mode self-generated from intrinsic magnetic heterogeneity](/publication/jin-2024-hidden/) (*Physical Review B*, 2024)
+- [Pulse-driven depinning of magnetic gap modes in ferromagnetic films](/publication/jin-2024-pulse/) (*Physical Review B*, 2024)
+- [Discovery and regulation of chiral magnetic solitons: Exact solution from Landau-Lifshitz-Gilbert equation](/publication/jin-2023-discovery/) (*arXiv:2308.08331*, 2023)
 - [Modelling Drying Pathways of an Evaporating Soft Matter Droplet](/publication/du-2022-modelling/) (*Communications in Theoretical Physics*, 2022)
 - [Macroscopic self-evolution of dynamic hydrogels to create hollow interiors](/publication/han-2019-macroscopic/) (*Angewandte Chemie International Edition*, 2019)
 - [Onset of nonlinear electroosmotic flow under AC electric field](/publication/hu-2022-onset/) (*Anal. Chem.*, 2022)
-- [Pressure of Active System Under the Electric Double Layer Interaction](/publication/hu-2022-onset/) (*Acta  Phys.  Sin.(Chinese)*, 2019)
+- [Pressure of Active System Under the Electric Double Layer Interaction](/publication/jin-2019-pressure/) (*Acta  Phys.  Sin.(Chinese)*, 2019)
+- [Confinement effects on the dynamics of polymers](/publication/bodiguel-2008-confinement/) (*APS March Meeting Abstracts*, 2008)
+
+
+
 
 ## Lab-on-Chip and Microfluidics
 
