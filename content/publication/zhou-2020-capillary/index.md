@@ -12,5 +12,5 @@ publishDate: '2025-05-26T13:36:33.931860Z'
 publication_types:
 - article-journal
 publication: '*New Journal of Physics*'
-tags: ["Statistical physics and phase transition"]
+tags: Statistical physics and phase transition
 ---

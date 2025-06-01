@@ -12,5 +12,5 @@ publishDate: '2025-05-26T13:36:33.785430Z'
 publication_types:
 - article-journal
 publication: '*Applied Physics Letters*'
-tags: ["Hard condensed matter"]
+tags: Hard condensed matter
 ---
