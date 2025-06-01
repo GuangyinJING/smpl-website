@@ -80,7 +80,7 @@ Swimming bacteria, one of model system of active particle, inject energy into th
 
 {{% callout note %}}
 
-The soft matter .
+Wetting dynamics and surface tension are important in soft matter system, particularly at small scale, where surface tension of interface dominates. In the past years, we tried to understand the surface phenomena governed by surface tension and drying in drops and thin liquid films.
 
 {{% /callout %}}
 - [Transpiration-induced self-growth of texture hydrogel surfaces](/publication/wang-2024-transpiration/)(*Angewandte Chemie (International ed. in English)*, 2024)
