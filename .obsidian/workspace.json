@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/zheng-2023-swimming/index.md",
+                "file": "content/publication/zhou-2020-capillary/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -35,7 +35,8 @@
               "title": "_index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8303f09fd31e79c",
+  "active": "542c6eedee03abdd",
   "lastOpenFiles": [
+    "content/publication/zhou-2020-capillary/index.md",
+    "content/publication/zottl-2020-theoretical/index.md",
     "content/publication/_index.md",
     "content/publication/zheng-2023-swimming/index.md",
     "content/publication/zhao-2016-controlling/index.md",
@@ -209,8 +212,6 @@
     "publication/xu-2025-bacterial.md",
     "content/publication/xing-2005-electrical/index.md",
     "content/publication/xu-2012-amplified/index.md",
-    "content/publication/xu-2006-effects/index.md",
-    "content/publication/xu-2004-surface/index.md",
     "publication",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_f194398b5004d11b.webp",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_c21052f391330fa1.JPG",
