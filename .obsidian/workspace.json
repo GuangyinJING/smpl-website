@@ -27,26 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/yu-2015-fabrication/index.md",
+                "file": "content/publication/jing-2010-effect/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "index"
             }
-          },
-          {
-            "id": "8c9a8f0f2242aa73",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c9a8f0f2242aa73",
+  "active": "fb8787831eb8da0c",
   "lastOpenFiles": [
-    "content/publication/_index.md",
     "content/publication/yu-2015-fabrication/index.md",
+    "content/publication/_index.md",
     "content/publication/yu-2016-hierarchical/index.md",
     "content/publication/yu-2022-cervix/index.md",
     "content/publication/yu-2023-escaping/index.md",
