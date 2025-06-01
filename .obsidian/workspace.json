@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "content/publication/du-2024-personalized/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "d447ed9992ec5ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "content/publication/_index.md",
                 "mode": "source",
                 "source": true
@@ -20,22 +34,9 @@
               "icon": "lucide-file",
               "title": "_index"
             }
-          },
-          {
-            "id": "fb8787831eb8da0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/publication/che-2023-gradient/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,17 +184,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8303f09fd31e79c",
+  "active": "d447ed9992ec5ff2",
   "lastOpenFiles": [
-    "content/publication/che-2023-gradient/index.md",
+    "content/publication/du-2024-personalized/index.md",
     "content/publication/_index.md",
+    "content/publication/du-2024-dynamics/index.md",
+    "publication/du-2024-dynamics.md",
+    "content/publication/du-2022-modelling/index.md",
+    "content/publication/che-2024-unravelling/index.md",
+    "content/publication/che-2023-ultra/index.md",
+    "content/publication/che-2023-gradient/index.md",
     "publication/shi-2025-quad-cascade.md",
     "publication",
     "content/publication/bodiguel-2008-confinement/index.md",
     "content/publication/zheng-2023-swimming/index.md",
     "content/publication/yan-2023-bacterial/index.md",
     "content/publication/yan-2022-motility/index.md",
-    "content/publication/che-2023-ultra/index.md",
     "content/publication/che-2021-dynamic/index.md",
     "content/publication/jing-2010-effect/index.md",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_f194398b5004d11b.webp",
@@ -226,11 +232,6 @@
     "content/publication/zhang-2021-drops/index.md",
     "content/publication/zhang-2023-configurational/index.md",
     "content/publication/zhang-2023-optically/index.md",
-    "content/publication/zhao-2016-controlling/index.md",
-    "content/publication/zhao-2023-quad/index.md",
-    "content/publication/zhou-2020-capillary/index.md",
-    "content/publication/zottl-2020-theoretical/index.md",
-    "content/publication/zou-2008-synthesis/index.md",
     "notes/Untitled 1.canvas",
     "notes/Untitled.canvas"
   ]

@@ -36,9 +36,10 @@ Studies on the mechanical properties of cells and their interactions.
 
 - [Bacterial Cell Mechanics](/publication/xu-2025-bacterial/) (*Journal Name*, 2025)
 
-- [Cell Dynamics Study](/publication/du-2024-dynamics/) (*Journal Name*, 2024)
+- [Dynamics of Endothelial Cells Migration in Nature-Mimicking Blood Vessels](/publication/du-2024-dynamics/) (*Talanta*, 2024)
 
-- [Unravelling Cell Interactions](/publication/che-2024-unravelling/) (*Journal Name*, 2024)
+- [Personalized Vascularized Tumor Organoid-on-a-Chip for Tumor Metastasis and
+  Therapeutic Targeting Assessment](/publication/du-2024-personalized/) (*Journal Name*, 2024)
 
   
 
@@ -66,7 +67,8 @@ Investigations into collective behavior and swarm intelligence.
 
 - [Confinement effects on the dynamics of polymers](/publication/bodiguel-2008-confinement/) (*APS March Meeting Abstracts*, 2008)
 
-- [Confinement effects on the dynamics of polymers](/publication/bodiguel-2008-confinement/) (*APS March Meeting Abstracts*, 2008)
+- [Modelling Drying Pathways of an Evaporating Soft Matter Droplet](/publication/du-2022-modelling/) (*Communications in Theoretical Physics*, 2022)
+- [Modelling Drying Pathways of an Evaporating Soft Matter Droplet](/publication/du-2022-modelling/) (*Communications in Theoretical Physics*, 2022)
 
 ## Lab-on-Chip and Microfluidics
 
@@ -76,8 +78,12 @@ Investigations into collective behavior and swarm intelligence.
 
 {{% /callout %}}
 
-- [Gradient Nanoconfinement Facilitates Binding of Transcriptional Factor NF-$ąppa$B
-  to Histone- and Protamine-DNA Complexes](/publication/che-2023-gradient/) (*Nano Letters*, 2025)
+- [Gradient Nanoconfinement Facilitates Binding of Transcriptional Factor NF-alppa B
+  to Histone- and Protamine-DNA Complexes](/publication/che-2023-gradient/) (*Nano Letters*, 2023)
+
+- [Ultra-low and dynamic flow field generator composed by microfluidic peristaltic](/publication/che-2023-gradient/)(*Advanced Intelligent Systems*, 2023)
+- [Unravelling the Dynamics of Collective Cellular Response to Spatially Varying
+  Environmental Stimuli Using a Laminar Flow Microfluidic Chip](/publication/che-2024-unravelling/)(*Preprint, Available at SSRN 4723935*, 2023)
 
 
 ## Hard condensed matter
