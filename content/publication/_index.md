@@ -98,4 +98,5 @@ Exploring material properties in condensed matter systems.
 
 {{% /callout %}}
 
-- [Condensed Matter Properties](/publication/zou-2008-synthesis/) (*Journal Name*)
+- [Strain dependent resistance in chemical vapor deposition grown graphene](/publication/fu-2011-strain/) (*Applied Physics Letters*, 2011)
+- [Bending-induced conductance increase in individual semiconductor nanowires](/publication/fu-2011-strain/) (*Nano Research*, 2011)
