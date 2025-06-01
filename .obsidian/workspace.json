@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/han-2009-bending/index.md",
+                "file": "content/publication/hu-2022-onset/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -35,8 +35,7 @@
               "title": "_index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d447ed9992ec5ff2",
+  "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
-    "content/publication/han-2009-bending/index.md",
     "content/publication/_index.md",
+    "content/publication/hu-2022-onset/index.md",
+    "content/publication/han-2019-macroscopic/index.md",
+    "content/publication/han-2009-bending/index.md",
     "content/publication/fu-2011-strain/index.md",
     "content/publication/feng-2024-chips/index.md",
     "content/publication/feng-2023-stand/index.md",
@@ -230,8 +231,6 @@
     "content/publication/yu-2022-cervix/index.md",
     "content/publication/yu-2023-escaping/index.md",
     "content/publication/zeng-2023-directional/index.md",
-    "content/publication/zhan-2018-surface/index.md",
-    "content/publication/zhang-2018-label/index.md",
     "notes/Untitled 1.canvas",
     "notes/Untitled.canvas"
   ]

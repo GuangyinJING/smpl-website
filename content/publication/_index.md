@@ -70,7 +70,8 @@ Investigations into collective behavior and swarm intelligence.
 - [Confinement effects on the dynamics of polymers](/publication/bodiguel-2008-confinement/) (*APS March Meeting Abstracts*, 2008)
 
 - [Modelling Drying Pathways of an Evaporating Soft Matter Droplet](/publication/du-2022-modelling/) (*Communications in Theoretical Physics*, 2022)
-- [Modelling Drying Pathways of an Evaporating Soft Matter Droplet](/publication/du-2022-modelling/) (*Communications in Theoretical Physics*, 2022)
+- [Macroscopic self-evolution of dynamic hydrogels to create hollow interiors](/publication/han-2019-macroscopic/) (*Angewandte Chemie International Edition*, 2019)
+- [Onset of nonlinear electroosmotic flow under AC electric field](/publication/han-2019-macroscopic/) (*Angewandte Chemie International Edition*, 2022)
 
 ## Lab-on-Chip and Microfluidics
 
@@ -99,4 +100,4 @@ Exploring material properties in condensed matter systems.
 {{% /callout %}}
 
 - [Strain dependent resistance in chemical vapor deposition grown graphene](/publication/fu-2011-strain/) (*Applied Physics Letters*, 2011)
-- [Bending-induced conductance increase in individual semiconductor nanowires](/publication/fu-2011-strain/) (*Nano Research*, 2011)
+- [Bending-induced conductance increase in individual semiconductor nanowires](/publication/han-2009-bending/) (*Nano Research*, 2011)
