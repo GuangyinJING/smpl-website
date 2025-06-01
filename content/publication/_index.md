@@ -21,8 +21,10 @@ Explore our research on bacterial swimming and rheotaxis.
 
 - [Enhanced diffusion of stretching DNA chains in active baths](/publication/liu-2025-enhanced/) (*New Journal of Physics*, 2025)
 - [Anisotropic Diffusion of Elongated Particles in Active Coherent Flows](/publication/li-2024-anisotropic/) (*Micromachines*, 2024)
-- [Swimming Dynamics](/publication/tian-2024-swimming/) (*Journal Name*, 2024)
+- [Swimming Modes of Bacteria Escaping from a Soft Confined Space](/publication/tian-2024-swimming/) (*Langmuir*, 2024)
 - [Microswimmer as active colloids](/publication/jing-2024-swimming/) (*Book Chapter: Active Colloids: From Fundamentals to Frontiers*, 2024)
+- [Direct Observation of Nanotracer Transport in Swarming Bacteria during Antibiotic Adaptation](/publication/wen-2023-direct/) (*ACS nano*, 2023)
+- [Activity-Induced Enhancement of Superdiffusive Transport in Bacterial Turbulence](/publication/xie-2022-activity/) (*Micromachines*, 2022)
 - [Chirality-induced bacterial rheotaxis in bulk shear flows](/publication/jing-2020-chirality/) (*Science Advances*, 2020)
   
 
@@ -35,13 +37,12 @@ Studies on the mechanical properties of cells and their interactions.
 {{% /callout %}}
 
 - [Bacterial Cell Mechanics](/publication/xu-2025-bacterial/) (*Journal Name*, 2025)
-
 - [Dynamics of Endothelial Cells Migration in Nature-Mimicking Blood Vessels](/publication/du-2024-dynamics/) (*Talanta*, 2024)
-
 - [Personalized Vascularized Tumor Organoid-on-a-Chip for Tumor Metastasis and
   Therapeutic Targeting Assessment](/publication/du-2024-personalized/) (*Advanced Matterials*, 2024)
 - [Personalized Vascularized Tumor Organoid-on-a-Chip for Tumor Metastasis and
   Therapeutic Targeting Assessment](/publication/du-2024-personalized/) (*Advanced Matterials*, 2024)
+- [Revolutionizing Wound Healing: Ultrashort Pulse Electric Fields in Seconds for Highly Aligned Extracellular Matrix and Efficient Cell Migration](/publication/xiang-2023-revolutionizing/) (*Chemical Engineering Journal*, 2023)
 
   
 
@@ -65,7 +66,7 @@ Investigations into collective behavior and swarm intelligence.
 
 {{% /callout %}}
 
-- [Quad-cascade picture of electrokinetic turbulence](/publication/shi-2025-quad-cascade/) (*Physics of Fluids*, 2025)
+- [Quad-cascade picture of electrokinetic turbulence](/publication/shi-2025-quad/) (*Physics of Fluids*, 2025)
 - [Hidden chiral mode self-generated from intrinsic magnetic heterogeneity](/publication/jin-2024-hidden/) (*Physical Review B*, 2024)
 - [Pulse-driven depinning of magnetic gap modes in ferromagnetic films](/publication/jin-2024-pulse/) (*Physical Review B*, 2024)
 - [Unveiling Stable One-dimensional Magnetic Solitons in Magnetic Bilayers](/publication/jin-2024-unveiling/) (*Physical Review B*, 2024)
@@ -74,6 +75,7 @@ Investigations into collective behavior and swarm intelligence.
 - [Macroscopic self-evolution of dynamic hydrogels to create hollow interiors](/publication/han-2019-macroscopic/) (*Angewandte Chemie International Edition*, 2019)
 - [Onset of nonlinear electroosmotic flow under AC electric field](/publication/hu-2022-onset/) (*Anal. Chem.*, 2022)
 - [Pressure of Active System Under the Electric Double Layer Interaction](/publication/jin-2019-pressure/) (*Acta  Phys.  Sin.(Chinese)*, 2019)
+- [Coupling motion of colloidal particles in quasi-two-dimensional confinement](/publication/ma-2014-coupling/) (*New Journal of Physics*, 2014)
 - [Confinement effects on the dynamics of polymers](/publication/bodiguel-2008-confinement/) (*APS March Meeting Abstracts*, 2008)
 
 
@@ -86,7 +88,7 @@ Investigations into collective behavior and swarm intelligence.
 Investigations into collective behavior and swarm intelligence.
 
 {{% /callout %}}
-
+- [Transpiration-induced self-growth of texture hydrogel surfaces](/publication/wang-2024-transpiration/)(*Angewandte Chemie (International ed. in English)*, 2024)
 - [Gradient Nanoconfinement Facilitates Binding of Transcriptional Factor NF-alppa B
   to Histone- and Protamine-DNA Complexes](/publication/che-2023-gradient/) (*Nano Letters*, 2023)
 - [Ultra-low and dynamic flow field generator composed by microfluidic peristaltic](/publication/che-2023-gradient/)(*Advanced Intelligent Systems*, 2023)
@@ -103,8 +105,10 @@ Investigations into collective behavior and swarm intelligence.
 -  [Two-step wetting transition on ZnO nanorod arrays](/publication/luo-2015-two/)(*Applied Surface Science*, 2015)
 - [Tuning crack pattern by phase separation in the drying of binary colloid--polymer suspension](/publication/liu-2014-tuning/)(*Physics Letters A*, 2014)
 - [Formation of circular crack pattern in deposition self-assembled by drying nanoparticle suspension](/publication/jing-2012-formation/)(*The Journal of Physical Chemistry B*, 2012)
-- [Drying of colloidal suspensions and polymer solutions near the contact line](/publication/jing-2010-dryingl/)(*Langmuir*, 2010)
-- [Contact Angle of Glycerol Nanodroplets Under van der Waals Force](/publication/jing-2010-dryingl/)(*The Journal of Physical Chemistry C*, 2009)
+- [Possible origin of the crack pattern in deposition films formed from a drying colloidal suspension](/publication/ma-2012-possible/)(*Physical Review E*, 2012)
+- [Drying of colloidal suspensions and polymer solutions near the contact line](/publication/jing-2010-drying/)(*Langmuir*, 2010)
+- [Cellular pattern separation into nanodroplets](/publication/ma-2010-cellular/)(*Soft Matter*, 2010)
+- [Contact Angle of Glycerol Nanodroplets Under van der Waals Force](/publication/ma-2009-contact/)(*The Journal of Physical Chemistry C*, 2009)
 
 ## Hard condensed matter
 

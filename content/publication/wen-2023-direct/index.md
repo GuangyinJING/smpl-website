@@ -1,6 +1,5 @@
 ---
-title: Direct Observation of Nanotracer Transport in Swarming Bacteria during Antibiotic
-  Adaptation
+title: Direct Observation of Nanotracer Transport in Swarming Bacteria during Antibiotic Adaptation
 authors:
 - Xiaodong Wen
 - Yuqian Sang

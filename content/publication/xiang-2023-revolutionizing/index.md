@@ -1,6 +1,5 @@
 ---
-title: 'Revolutionizing Wound Healing: Ultrashort Pulse Electric Fields in Seconds
-  for Highly Aligned Extracellular Matrix and Efficient Cell Migration'
+title: 'Revolutionizing Wound Healing: Ultrashort Pulse Electric Fields in Seconds for Highly Aligned Extracellular Matrix and Efficient Cell Migration'
 authors:
 - Xiao-Wei Xiang
 - Hao-Tian Liu

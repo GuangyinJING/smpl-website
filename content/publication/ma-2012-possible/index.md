@@ -1,6 +1,5 @@
 ---
-title: Possible origin of the crack pattern in deposition films formed from a drying
-  colloidal suspension
+title: Possible origin of the crack pattern in deposition films formed from a drying colloidal suspension
 authors:
 - Jun Ma
 - Guangyin Jing
