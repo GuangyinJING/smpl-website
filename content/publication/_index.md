@@ -37,7 +37,7 @@ Motile bacteria, such as *E. Coli*, drive themselves to move by rotating one or 
 
 {{% callout note %}}
 
-By learning the mechanism of *smart* 
+By learning the mechanism of force sensing of *smart* eukaryocyte cells, we are wondering how the bacteria, a kind of prokaryotic cell, sense normal and lateral stress particularly in dynamic flows. The bacterial flagella motor is able to response to the mechanical load from the flowing environments, which provide a nice window with our tracking system equipped with visualisation tools under microscope. In this section, we are on the way to investigate the force sensing and rheosensing of cells.
 
 {{% /callout %}}
 
@@ -53,23 +53,11 @@ By learning the mechanism of *smart*
 
   
 
-## Adaptation at molecular scale
-
-{{% callout note %}}
-
-Research on molecular regulation and adaptation in biological systems.
-
-{{% /callout %}}
-
-- [Molecular Adaptation Study](/publication/adaptation-paper/) (*Journal Name*)
-
-  
-
 ## Statistical physics and phase transition
 
 {{% callout note %}}
 
-Investigations into collective behavior and swarm intelligence.
+Swimming bacteria, one of model system of active particle, inject energy into the system by transferring biochemical reaction into mechanical movement. Therefore this active matter system is driven far away from equilibrium state. With the understanding from the statistical physics in magnetic system, phase transition and dynamics for this active system are greatly interesting. 
 
 {{% /callout %}}
 
@@ -92,7 +80,7 @@ Investigations into collective behavior and swarm intelligence.
 
 {{% callout note %}}
 
-Investigations into collective behavior and swarm intelligence.
+The soft matter .
 
 {{% /callout %}}
 - [Transpiration-induced self-growth of texture hydrogel surfaces](/publication/wang-2024-transpiration/)(*Angewandte Chemie (International ed. in English)*, 2024)
