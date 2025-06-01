@@ -17,5 +17,5 @@ publishDate: '2025-05-26T13:36:33.985472Z'
 publication_types:
 - article-journal
 publication: '*Anal. Chem.*'
-tags: ["Swimming behavior at phenotype"]
+category: Swimming behavior at phenotype
 ---

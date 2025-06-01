@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/zeng-2023-directional/index.md",
+                "file": "content/publication/yu-2015-fabrication/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "8c9a8f0f2242aa73",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,11 +194,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb8787831eb8da0c",
+  "active": "8c9a8f0f2242aa73",
   "lastOpenFiles": [
+    "content/publication/_index.md",
+    "content/publication/yu-2015-fabrication/index.md",
+    "content/publication/yu-2016-hierarchical/index.md",
+    "content/publication/yu-2022-cervix/index.md",
+    "content/publication/yu-2023-escaping/index.md",
+    "content/publication/zeng-2023-directional/index.md",
     "content/publication/zhan-2018-surface/index.md",
     "content/publication/zhang-2018-label/index.md",
-    "content/publication/_index.md",
     "content/publication/jin-2019-pressure/index.md",
     "content/publication/zhang-2021-drops/index.md",
     "content/publication/zhang-2023-configurational/index.md",
@@ -206,11 +221,6 @@
     "content/publication/yan-2022-motility/index.md",
     "content/publication/yan-2023-bacterial/index.md",
     "content/publication/yu-2015-deposit/index.md",
-    "content/publication/yu-2015-fabrication/index.md",
-    "content/publication/yu-2016-hierarchical/index.md",
-    "content/publication/yu-2022-cervix/index.md",
-    "content/publication/yu-2023-escaping/index.md",
-    "content/publication/zeng-2023-directional/index.md",
     "public/tag/mechanobiology-of-cells/index.xml",
     "public/tag/mechanobiology-of-cells/page/1/index.html",
     "public/tag/mechanobiology-of-cells/page/1",

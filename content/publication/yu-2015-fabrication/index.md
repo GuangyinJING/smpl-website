@@ -16,5 +16,5 @@ publishDate: '2025-05-26T13:36:33.839315Z'
 publication_types:
 - article-journal
 publication: '*Journal of Materials Chemistry A*'
-tags: ["Hard condensed matter"]
+category: Hard condensed matter
 ---
