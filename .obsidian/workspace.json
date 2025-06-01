@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8303f09fd31e79c",
+            "id": "542c6eedee03abdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/zhou-2020-capillary/index.md",
+                "file": "content/people/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "542c6eedee03abdd",
+            "id": "4faf9a3ffd416486",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/_index.md",
+                "file": "content/authors/YananLIU/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -184,11 +184,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "542c6eedee03abdd",
+  "active": "4faf9a3ffd416486",
   "lastOpenFiles": [
+    "content/authors/GuangyinJING/_index.md",
+    "content/people/index.md",
     "content/publication/zhou-2020-capillary/index.md",
-    "content/publication/zottl-2020-theoretical/index.md",
+    "assets/css/custom.css.md",
+    "content/_index.md",
+    "content/admin/index.md",
+    "content/authors/YananLIU/_index.md",
     "content/publication/_index.md",
+    "content/publication/zottl-2020-theoretical/index.md",
     "content/publication/zheng-2023-swimming/index.md",
     "content/publication/zhao-2016-controlling/index.md",
     "content/publication/zhao-2023-quad/index.md",
@@ -206,12 +212,6 @@
     "content/publication/yu-2015-deposit/index.md",
     "content/publication/yan-2021-drying/index.md",
     "content/publication/yan-2022-motility/index.md",
-    "content/publication/xue-2018-amf/index.md",
-    "content/publication/yan-2012-synthesis/index.md",
-    "content/publication/xu-2025-bacterial/index.md",
-    "publication/xu-2025-bacterial.md",
-    "content/publication/xing-2005-electrical/index.md",
-    "content/publication/xu-2012-amplified/index.md",
     "publication",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_f194398b5004d11b.webp",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_c21052f391330fa1.JPG",

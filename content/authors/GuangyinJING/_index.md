@@ -26,7 +26,7 @@ social:
 email: jing@nwu.edu.cn
 highlight_name: false
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 Jing Guangyin, Professor of the School of Physics, head of the Department of Materials Physics, working on soft matter and biophysics. He got bachelor's degree in Sun Yat-sen University (2002), and Ph.D in Peking University (2007). Later, he started the postdoctoral fellow in ESPCI-ParisTech working on polymer physics, then another postdoctoral work on fluid dynamics of colloids in Paris-Sud University. Since Sep. 2009, he joined the School of Physics of Northwestern University in Xi’an China, and started to run the Soft Matter Physics Lab (SMPL). His current research interests include active matter, self-propelled particle, fluid dynamics of microswimers and their collective motion, bacterial swimming in biological fluids and the medical applications, which are founded National Natural Science Foundation, Outstanding Youth Foundation of Shaanxi Province Natural Science.
 
