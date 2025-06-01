@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/hu-2022-onset/index.md",
+                "file": "content/publication/jin-2019-pressure/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -35,7 +35,8 @@
               "title": "_index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,9 +184,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8303f09fd31e79c",
+  "active": "d447ed9992ec5ff2",
   "lastOpenFiles": [
+    "content/publication/jin-2019-pressure/index.md",
     "content/publication/_index.md",
+    "content/publication/jia-2023-fluidic/index.md",
+    "content/publication/jia-2021-local/index.md",
+    "content/publication/jia-2020-air/index.md",
     "content/publication/hu-2022-onset/index.md",
     "content/publication/han-2019-macroscopic/index.md",
     "content/publication/han-2009-bending/index.md",
@@ -227,10 +232,6 @@
     "resources/_gen/images/post",
     "resources/_gen/images/author/zhihan-ye",
     "content/publication/yu-2015-fabrication/index.md",
-    "content/publication/yu-2016-hierarchical/index.md",
-    "content/publication/yu-2022-cervix/index.md",
-    "content/publication/yu-2023-escaping/index.md",
-    "content/publication/zeng-2023-directional/index.md",
     "notes/Untitled 1.canvas",
     "notes/Untitled.canvas"
   ]

@@ -71,7 +71,8 @@ Investigations into collective behavior and swarm intelligence.
 
 - [Modelling Drying Pathways of an Evaporating Soft Matter Droplet](/publication/du-2022-modelling/) (*Communications in Theoretical Physics*, 2022)
 - [Macroscopic self-evolution of dynamic hydrogels to create hollow interiors](/publication/han-2019-macroscopic/) (*Angewandte Chemie International Edition*, 2019)
-- [Onset of nonlinear electroosmotic flow under AC electric field](/publication/han-2019-macroscopic/) (*Angewandte Chemie International Edition*, 2022)
+- [Onset of nonlinear electroosmotic flow under AC electric field](/publication/hu-2022-onset/) (*Anal. Chem.*, 2022)
+- [Pressure of Active System Under the Electric Double Layer Interaction](/publication/hu-2022-onset/) (*Acta  Phys.  Sin.(Chinese)*, 2019)
 
 ## Lab-on-Chip and Microfluidics
 
@@ -83,13 +84,12 @@ Investigations into collective behavior and swarm intelligence.
 
 - [Gradient Nanoconfinement Facilitates Binding of Transcriptional Factor NF-alppa B
   to Histone- and Protamine-DNA Complexes](/publication/che-2023-gradient/) (*Nano Letters*, 2023)
-
 - [Ultra-low and dynamic flow field generator composed by microfluidic peristaltic](/publication/che-2023-gradient/)(*Advanced Intelligent Systems*, 2023)
-- [Unravelling the Dynamics of Collective Cellular Response to Spatially Varying
-  Environmental Stimuli Using a Laminar Flow Microfluidic Chip](/publication/che-2024-unravelling/)(*Preprint, Available at SSRN 4723935*, 2023)
+- [Air-Bubble Induced Mixing: A Fluidic Mixer Chip](/publication/jia-2020-air/)(*Micromachines*, 2023)
 - [A Stand-Alone Microfluidic Chip for Long-Term Cell Culture](/publication/feng-2023-stand/)(*Micromachines*, 2023)
 - [From Chips-in-Lab to Point-of-Care Live Cell Device: Development of a Microfluidic Device for On-Site Cell Culture and High-Throughput Drug Screening](/publication/feng-2023-stand/)(*ACS Biomaterials Science & Engin*, 2023)
-
+- [A fluidic platform for mobility evaluation of zebrafish with gene deficiency](/publication/jia-2023-fluidicl/)(*Frontiers in Molecular Neuroscience*, 2023)
+- [Local evaporation flux of deformed liquid drops](/publication/jia-2021-local/)(*arXiv preprint arXiv:2108.07588*, 2021)
 
 ## Hard condensed matter
 
