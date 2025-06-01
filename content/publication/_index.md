@@ -12,35 +12,99 @@ Overview of our research:
 - Interactions between bacteria and biological fluids and their medical applications
 
 ## Swimming behavior at phenotype
-{{% callout note %}}
-Explore our research on bacterial swimming and rheotaxis.
-{{% /callout %}}
-- {{% publication "liu-2025-enhanced" %}}
-- {{% publication "tian-2024-swimming" %}}
 
+{{% callout note %}}
+
+Explore our research on bacterial swimming and rheotaxis.
+
+{{% /callout %}}
+
+{{% range where .Site.RegularPages "Section" "publication" %}}
+
+{{% if eq .Params.category "Swimming behavior at phenotype" %}}
+
+<div><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.publication }})</div>
+
+{{% end %}}
+
+{{% end %}}
+
+  
 
 ## Mechanobiology of cells
+
 {{% callout note %}}
+
 Studies on the mechanical properties of cells and their interactions.
+
 {{% /callout %}}
-- {{% publication "xu-2025-bacterial" %}}
-- {{% publication "du-2024-dynamics" %}}
-- {{% publication "che-2024-unravelling" %}}
+
+{{% range where .Site.RegularPages "Section" "publication" %}}
+
+{{% if eq .Params.category "Mechanobiology of cells" %}}
+
+<div><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.publication }})</div>
+
+{{% end %}}
+
+{{% end %}}
+
+  
 
 ## Adaptation at molecular scale
-{{% callout note %}}
-Research on molecular regulation and adaptation in biological systems.
-{{% /callout %}}
-- {{% publication "adaptation-paper" %}}
 
-## Statistical physics
 {{% callout note %}}
-Investigations into collective behavior and swarm intelligence.
+
+Research on molecular regulation and adaptation in biological systems.
+
 {{% /callout %}}
-- {{% publication "statistical-physics-paper" %}}
+
+{{% range where .Site.RegularPages "Section" "publication" %}}
+
+{{% if eq .Params.category "Adaptation at molecular scale" %}}
+
+<div><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.publication }})</div>
+
+{{% end %}}
+
+{{% end %}}
+
+  
+
+## Statistical physics and phase transition
+
+{{% callout note %}}
+
+Investigations into collective behavior and swarm intelligence.
+
+{{% /callout %}}
+
+{{% range where .Site.RegularPages "Section" "publication" %}}
+
+{{% if eq .Params.category "Statistical physics and phase transition" %}}
+
+<div><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.publication }})</div>
+
+{{% end %}}
+
+{{% end %}}
+
+  
 
 ## Hard condensed matter
+
 {{% callout note %}}
+
 Exploring material properties in condensed matter systems.
+
 {{% /callout %}}
-- {{% publication "hard-condensed-matter-paper" %}}
+
+{{% range where .Site.RegularPages "Section" "publication" %}}
+
+{{% if eq .Params.category "Hard condensed matter" %}}
+
+<div><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.publication }})</div>
+
+{{% end %}}
+
+{{% end %}}
