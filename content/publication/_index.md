@@ -19,7 +19,7 @@ Explore our research on bacterial swimming and rheotaxis.
 
 {{% /callout %}}
 
-- [Enhanced Bacterial Swimming](/publication/liu-2025-enhanced/) (*Journal Name*, 2025)
+- [Enhanced diffusion of stretching DNA chains in active baths](/publication/liu-2025-enhanced/) (*New Journal of Physics*, 2025)
 - [Anisotropic Diffusion of Elongated Particles in Active Coherent Flows](/publication/li-2024-anisotropic/) (*Micromachines*, 2024)
 - [Swimming Dynamics](/publication/tian-2024-swimming/) (*Journal Name*, 2024)
 - [Microswimmer as active colloids](/publication/jing-2024-swimming/) (*Book Chapter: Active Colloids: From Fundamentals to Frontiers*, 2024)
@@ -93,13 +93,18 @@ Investigations into collective behavior and swarm intelligence.
 - [Air-Bubble Induced Mixing: A Fluidic Mixer Chip](/publication/jia-2020-air/)(*Micromachines*, 2023)
 - [A Stand-Alone Microfluidic Chip for Long-Term Cell Culture](/publication/feng-2023-stand/)(*Micromachines*, 2023)
 - [From Chips-in-Lab to Point-of-Care Live Cell Device: Development of a Microfluidic Device for On-Site Cell Culture and High-Throughput Drug Screening](/publication/feng-2023-stand/)(*ACS Biomaterials Science & Engin*, 2023)
-- [A fluidic platform for mobility evaluation of zebrafish with gene deficiency](/publication/jia-2023-fluidicl/)(*Frontiers in Molecular Neuroscience*, 2023)
+- [A fluidic platform for mobility evaluation of zebrafish with gene deficiency](/publication/jia-2023-fluidic/)(*Frontiers in Molecular Neuroscience*, 2023)
+- [Glycerol Droplet Spreading on Growing Bacillus Subtilis Biofilms](/publication/luo-2023-glycerol/)(*Micromachines*, 2023)
 - [Local evaporation flux of deformed liquid drops](/publication/jia-2021-local/)(*arXiv preprint arXiv:2108.07588*, 2021)
 - [Direct observation of nanoparticle multiple-ring pattern formation during droplet evaporation with dark-field microscopy](/publication/li-2016-direct/)(*Physical Chemistry Chemical Physics*, 2021)
+-  [Tunable Growth of ZnO Nanostructures on the Inner Wall of Capillary Tubes](/publication/luo-2019-tunable/)(*The Journal of Physical Chemistry C*, 2019)
+-  [Evaporation-induced failure of hydrophobicity](/publication/luo-2016-evaporation/)(*Physical Review Fluids*, 2016)
 - [Surface roughness induced cracks of the deposition film from drying colloidal suspension](/publication/liu-2016-surface/)(*The European Physical Journal E*, 2016)
+-  [Two-step wetting transition on ZnO nanorod arrays](/publication/luo-2015-two/)(*Applied Surface Science*, 2015)
 - [Tuning crack pattern by phase separation in the drying of binary colloid--polymer suspension](/publication/liu-2014-tuning/)(*Physics Letters A*, 2014)
 - [Formation of circular crack pattern in deposition self-assembled by drying nanoparticle suspension](/publication/jing-2012-formation/)(*The Journal of Physical Chemistry B*, 2012)
 - [Drying of colloidal suspensions and polymer solutions near the contact line](/publication/jing-2010-dryingl/)(*Langmuir*, 2010)
+- [Contact Angle of Glycerol Nanodroplets Under van der Waals Force](/publication/jing-2010-dryingl/)(*The Journal of Physical Chemistry C*, 2009)
 
 ## Hard condensed matter
 
@@ -108,9 +113,10 @@ Investigations into collective behavior and swarm intelligence.
 Exploring material properties in condensed matter systems.
 
 {{% /callout %}}
-- [Ultrasonication-triggered ubiquitous assembly of magnetic Janus amphiphilic nanoparticles in cancer theranostic applications](/publication/liu-2014-coating/) (*Advanced Materials Interfaces*, 2016)
+- [Ultrasonication-triggered ubiquitous assembly of magnetic Janus amphiphilic nanoparticles in cancer theranostic applications](/publication/liu-2019-ultrasonication/) (*Nano letters*, 2016)
 - [Coating engineering of MnFe2O4 nanoparticles with superhigh T2 relaxivity and efficient cellular uptake for highly sensitive magnetic resonance imaging](/publication/liu-2014-coating/) (*Advanced Materials Interfaces*, 2014)
 - [Step-by-Step Fracture of Two-Layer Stacked Graphene Membranes](/publication/lin-2014-step/) (*ACS Nano*, 2014)
+- [Optical fiber with nanostructured cladding of TiO2 nanoparticles self-assembled onto a side polished fiber and its temperature sensing](/publication/lu-2014-optical/) (*Optics express*, 2014)
 - [Graphene-Coated Atomic Force Microscope Tips for Reliable Nanoscale Electrical Characterization](/publication/lanza-2013-electrical/) (*Advanced Materials*, 2013)
 - [Stretch-induced stiffness enhancement of graphene grown by chemical vapor deposition](/publication/lin-2013-stretch/) (*ACS Nano*, 2013)
 - [Electrical and mechanical performance of graphene sheets exposed to oxidative environments](/publication/lanza-2013-electrical/) (*Nano Research*, 2013)

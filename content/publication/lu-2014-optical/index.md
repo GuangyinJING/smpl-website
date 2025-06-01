@@ -1,6 +1,5 @@
 ---
-title: Optical fiber with nanostructured cladding of TiO 2 nanoparticles self-assembled
-  onto a side polished fiber and its temperature sensing
+title: Optical fiber with nanostructured cladding of TiO 2 nanoparticles self-assembled onto a side polished fiber and its temperature sensing
 authors:
 - Huihui Lu
 - Zhengwen Tian
