@@ -1,6 +1,5 @@
 ---
-title: Ultrasonication-triggered ubiquitous assembly of magnetic Janus amphiphilic
-  nanoparticles in cancer theranostic applications
+title: Ultrasonication-triggered ubiquitous assembly of magnetic Janus amphiphilic nanoparticles in cancer theranostic applications
 authors:
 - Xiaoli Liu
 - Mingli Peng

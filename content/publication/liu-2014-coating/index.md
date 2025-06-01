@@ -1,6 +1,5 @@
 ---
-title: Coating engineering of MnFe2O4 nanoparticles with superhigh T2 relaxivity and
-  efficient cellular uptake for highly sensitive magnetic resonance imaging
+title: Coating engineering of MnFe2O4 nanoparticles with superhigh T2 relaxivity and efficient cellular uptake for highly sensitive magnetic resonance imaging
 authors:
 - Xiao Li Liu
 - Yu Tong Wang

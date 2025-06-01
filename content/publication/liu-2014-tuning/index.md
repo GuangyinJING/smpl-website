@@ -1,6 +1,5 @@
 ---
-title: Tuning crack pattern by phase separation in the drying of binary colloid--polymer
-  suspension
+title: Tuning crack pattern by phase separation in the drying of binary colloid--polymer suspension
 authors:
 - Tingting Liu
 - Hao Luo

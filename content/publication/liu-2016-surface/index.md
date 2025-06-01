@@ -1,6 +1,5 @@
 ---
-title: Surface roughness induced cracks of the deposition film from drying colloidal
-  suspension
+title: Surface roughness induced cracks of the deposition film from drying colloidal suspension
 authors:
 - Tingting Liu
 - Hao Luo
