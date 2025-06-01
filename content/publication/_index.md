@@ -19,16 +19,11 @@ Explore our research on bacterial swimming and rheotaxis.
 
 {{% /callout %}}
 
-{{% range where .Site.RegularPages "Section" "publication" %}}
+- [Enhanced Bacterial Swimming](/publication/liu-2025-enhanced/) (*Journal Name*, 2025)
 
-{{% if eq .Params.category "Swimming behavior at phenotype" %}}
+- [Swimming Dynamics](/publication/tian-2024-swimming/) (*Journal Name*, 2024)
 
-<div><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.publication }})</div>
-
-{{% end %}}
-
-{{% end %}}
-
+- [Microswimmer as active colloids](/publication/jing-2024-swimming/) (*Book Chapter: Active Colloids*, 2024)
   
 
 ## Mechanobiology of cells
@@ -39,15 +34,11 @@ Studies on the mechanical properties of cells and their interactions.
 
 {{% /callout %}}
 
-{{% range where .Site.RegularPages "Section" "publication" %}}
+- [Bacterial Cell Mechanics](/publication/xu-2025-bacterial/) (*Journal Name*, 2025)
 
-{{% if eq .Params.category "Mechanobiology of cells" %}}
+- [Cell Dynamics Study](/publication/du-2024-dynamics/) (*Journal Name*, 2024)
 
-<div><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.publication }})</div>
-
-{{% end %}}
-
-{{% end %}}
+- [Unravelling Cell Interactions](/publication/che-2024-unravelling/) (*Journal Name*, 2024)
 
   
 
@@ -59,15 +50,7 @@ Research on molecular regulation and adaptation in biological systems.
 
 {{% /callout %}}
 
-{{% range where .Site.RegularPages "Section" "publication" %}}
-
-{{% if eq .Params.category "Adaptation at molecular scale" %}}
-
-<div><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.publication }})</div>
-
-{{% end %}}
-
-{{% end %}}
+- [Molecular Adaptation Study](/publication/adaptation-paper/) (*Journal Name*)
 
   
 
@@ -79,15 +62,9 @@ Investigations into collective behavior and swarm intelligence.
 
 {{% /callout %}}
 
-{{% range where .Site.RegularPages "Section" "publication" %}}
+- [Quad-cascade picture of electrokinetic turbulence](/publication/shi-2025-quad-cascade/) (*Physics of Fluids*, 2025)
 
-{{% if eq .Params.category "Statistical physics and phase transition" %}}
-
-<div><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.publication }})</div>
-
-{{% end %}}
-
-{{% end %}}
+- [Swarm Intelligence Model](/publication/jing-2010-drying/) (*Journal Name*)
 
   
 
@@ -99,12 +76,4 @@ Exploring material properties in condensed matter systems.
 
 {{% /callout %}}
 
-{{% range where .Site.RegularPages "Section" "publication" %}}
-
-{{% if eq .Params.category "Hard condensed matter" %}}
-
-<div><a href="{{ .RelPermalink }}">{{ .Title }}</a> ({{ .Params.publication }})</div>
-
-{{% end %}}
-
-{{% end %}}
+- [Condensed Matter Properties](/publication/zou-2008-synthesis/) (*Journal Name*)

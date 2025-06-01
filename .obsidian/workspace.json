@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/zheng-2023-swimming/index.md",
+                "file": "content/publication/bodiguel-2008-confinement/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -35,7 +35,8 @@
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,16 +184,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8303f09fd31e79c",
+  "active": "fb8787831eb8da0c",
   "lastOpenFiles": [
     "content/publication/zheng-2023-swimming/index.md",
+    "content/publication/_index.md",
     "content/publication/yan-2023-bacterial/index.md",
     "content/publication/yan-2022-motility/index.md",
     "content/publication/che-2023-ultra/index.md",
     "content/publication/che-2021-dynamic/index.md",
     "content/publication/bodiguel-2008-confinement/index.md",
     "content/publication/jing-2010-effect/index.md",
-    "content/publication/_index.md",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_f194398b5004d11b.webp",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_c21052f391330fa1.JPG",
     "resources/_gen/images/post/20250326jpcbpaper/featured_hu_4e4ada8a3259afa9.webp",
