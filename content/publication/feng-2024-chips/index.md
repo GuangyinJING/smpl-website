@@ -1,6 +1,5 @@
 ---
-title: 'From Chips-in-Lab to Point-of-Care Live Cell Device: Development of a Microfluidic
-  Device for On-Site Cell Culture and High-Throughput Drug Screening'
+title: 'From Chips-in-Lab to Point-of-Care Live Cell Device: Development of a Microfluidic Device for On-Site Cell Culture and High-Throughput Drug Screening'
 authors:
 - Yibo Feng
 - Bingchen Che

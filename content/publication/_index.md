@@ -39,7 +39,9 @@ Studies on the mechanical properties of cells and their interactions.
 - [Dynamics of Endothelial Cells Migration in Nature-Mimicking Blood Vessels](/publication/du-2024-dynamics/) (*Talanta*, 2024)
 
 - [Personalized Vascularized Tumor Organoid-on-a-Chip for Tumor Metastasis and
-  Therapeutic Targeting Assessment](/publication/du-2024-personalized/) (*Journal Name*, 2024)
+  Therapeutic Targeting Assessment](/publication/du-2024-personalized/) (*Advanced Matterials*, 2024)
+- [Personalized Vascularized Tumor Organoid-on-a-Chip for Tumor Metastasis and
+  Therapeutic Targeting Assessment](/publication/du-2024-personalized/) (*Advanced Matterials*, 2024)
 
   
 
@@ -84,6 +86,8 @@ Investigations into collective behavior and swarm intelligence.
 - [Ultra-low and dynamic flow field generator composed by microfluidic peristaltic](/publication/che-2023-gradient/)(*Advanced Intelligent Systems*, 2023)
 - [Unravelling the Dynamics of Collective Cellular Response to Spatially Varying
   Environmental Stimuli Using a Laminar Flow Microfluidic Chip](/publication/che-2024-unravelling/)(*Preprint, Available at SSRN 4723935*, 2023)
+- [A Stand-Alone Microfluidic Chip for Long-Term Cell Culture](/publication/feng-2023-stand/)(*Micromachines*, 2023)
+- [From Chips-in-Lab to Point-of-Care Live Cell Device: Development of a Microfluidic Device for On-Site Cell Culture and High-Throughput Drug Screening](/publication/feng-2023-stand/)(*ACS Biomaterials Science & Engin*, 2023)
 
 
 ## Hard condensed matter
