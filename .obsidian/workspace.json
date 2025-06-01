@@ -35,8 +35,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb8787831eb8da0c",
+  "active": "c8303f09fd31e79c",
   "lastOpenFiles": [
+    "content/publication/jing-2010-effect/index.md",
     "config/_default/hugo.yaml.sb-88434d7e-htlg1c",
     "content/publication/yu-2015-fabrication/index.md",
     "content/publication/_index.md",
@@ -219,7 +219,6 @@
     "public/tag/mechanobiology-of-cells/index.html",
     "public/tag/mechanobiology-of-cells",
     "public/tag/adaptation-at-molecular-scale/index.xml",
-    "public/tag/adaptation-at-molecular-scale/page/1/index.html",
     "content/publication/jin-2024-pulse/index.md",
     "content/publication/jing-2010-drying/index.md",
     "public/media/SwimmingOrien_hu_22b97acc855c0adc.webp",
