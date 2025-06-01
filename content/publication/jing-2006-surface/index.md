@@ -1,6 +1,5 @@
 ---
-title: 'Surface effects on elastic properties of silver nanowires: contact atomic-force
-  microscopy'
+title: 'Surface effects on elastic properties of silver nanowires: contact atomic-force microscopy'
 authors:
 - GY Jing
 - H_L Duan

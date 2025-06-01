@@ -1,6 +1,5 @@
 ---
-title: 'Drying of colloidal suspensions and polymer solutions near the contact line:
-  deposit thickness at low capillary number'
+title: 'Drying of colloidal suspensions and polymer solutions near the contact line: deposit thickness at low capillary number'
 authors:
 - G Jing
 - Hugues Bodiguel

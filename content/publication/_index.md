@@ -68,6 +68,7 @@ Investigations into collective behavior and swarm intelligence.
 - [Quad-cascade picture of electrokinetic turbulence](/publication/shi-2025-quad-cascade/) (*Physics of Fluids*, 2025)
 - [Hidden chiral mode self-generated from intrinsic magnetic heterogeneity](/publication/jin-2024-hidden/) (*Physical Review B*, 2024)
 - [Pulse-driven depinning of magnetic gap modes in ferromagnetic films](/publication/jin-2024-pulse/) (*Physical Review B*, 2024)
+- [Unveiling Stable One-dimensional Magnetic Solitons in Magnetic Bilayers](/publication/jin-2024-unveiling/) (*Physical Review B*, 2024)
 - [Discovery and regulation of chiral magnetic solitons: Exact solution from Landau-Lifshitz-Gilbert equation](/publication/jin-2023-discovery/) (*arXiv:2308.08331*, 2023)
 - [Modelling Drying Pathways of an Evaporating Soft Matter Droplet](/publication/du-2022-modelling/) (*Communications in Theoretical Physics*, 2022)
 - [Macroscopic self-evolution of dynamic hydrogels to create hollow interiors](/publication/han-2019-macroscopic/) (*Angewandte Chemie International Edition*, 2019)
@@ -78,7 +79,7 @@ Investigations into collective behavior and swarm intelligence.
 
 
 
-## Lab-on-Chip and Microfluidics
+## Wetting Dynamics and Microfluidics
 
 {{% callout note %}}
 
@@ -94,6 +95,7 @@ Investigations into collective behavior and swarm intelligence.
 - [From Chips-in-Lab to Point-of-Care Live Cell Device: Development of a Microfluidic Device for On-Site Cell Culture and High-Throughput Drug Screening](/publication/feng-2023-stand/)(*ACS Biomaterials Science & Engin*, 2023)
 - [A fluidic platform for mobility evaluation of zebrafish with gene deficiency](/publication/jia-2023-fluidicl/)(*Frontiers in Molecular Neuroscience*, 2023)
 - [Local evaporation flux of deformed liquid drops](/publication/jia-2021-local/)(*arXiv preprint arXiv:2108.07588*, 2021)
+- [Drying of colloidal suspensions and polymer solutions near the contact line](/publication/jing-2010-dryingl/)(*Langmuir*, 2010)
 
 ## Hard condensed matter
 
@@ -105,3 +107,6 @@ Exploring material properties in condensed matter systems.
 
 - [Strain dependent resistance in chemical vapor deposition grown graphene](/publication/fu-2011-strain/) (*Applied Physics Letters*, 2011)
 - [Bending-induced conductance increase in individual semiconductor nanowires](/publication/han-2009-bending/) (*Nano Research*, 2011)
+- [Effect of surface morphology on the mechanical properties of ZnO nanowires](/publication/jing-2010-effect/) (*Applied Physics A*, 2010)
+- [Study of the bending modulus of individual silicon nitride nanobelts via atomic](/publication/jing-2006-study/) (*Applied Physics A*, 2006)
+- [Surface effects on elastic properties of silver nanowires: contact atomic-force microscopy](/publication/jing-2006-surface/) (*Physical Review B*, 2006)

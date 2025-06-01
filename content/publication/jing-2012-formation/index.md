@@ -1,6 +1,5 @@
 ---
-title: Formation of circular crack pattern in deposition self-assembled by drying
-  nanoparticle suspension
+title: Formation of circular crack pattern in deposition self-assembled by drying nanoparticle suspension
 authors:
 - Guangyin Jing
 - Jun Ma

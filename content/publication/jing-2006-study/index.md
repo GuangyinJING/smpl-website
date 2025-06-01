@@ -1,6 +1,5 @@
 ---
-title: Study of the bending modulus of individual silicon nitride nanobelts via atomic
-  force microscopy
+title: Study of the bending modulus of individual silicon nitride nanobelts via atomic force microscopy
 authors:
 - GY Jing
 - H Ji
