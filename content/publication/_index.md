@@ -1,7 +1,6 @@
 ---
 title: SMPL Publications
 view: citation
-group_by: tags
 banner:
   caption: 'Overview of SMPL research'
   image: Overview.jpg
@@ -16,7 +15,9 @@ Overview of our research:
 {{% callout note %}}
 Explore our research on bacterial swimming and rheotaxis.
 {{% /callout %}}
-- {{% publication "chirality-induced-bacterial-rheotaxis" %}}
+- {{% publication "liu-2025-enhanced" %}}
+- {{% publication "tian-2024-swimming" %}}
+
 
 ## Mechanobiology of cells
 {{% callout note %}}
