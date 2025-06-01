@@ -3,8 +3,7 @@ title: SMPL Publications
 view: citation
 banner:
   caption: 'Overview of SMPL research'
-  image:
-    filename: Overview.jpg
+  image: Overview.jpg
 ---
 
 Overview of our research:

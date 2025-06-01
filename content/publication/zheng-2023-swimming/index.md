@@ -12,5 +12,5 @@ publishDate: '2025-05-26T13:36:33.999909Z'
 publication_types:
 - article-journal
 publication: '*Langmuir*'
-tags: ["Swimming behavior at phenotype"]
+category:  Swimming behavior at phenotype
 ---

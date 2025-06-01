@@ -18,5 +18,5 @@ publishDate: '2025-05-26T13:36:33.904803Z'
 publication_types:
 - article-journal
 publication: '*Optical Materials Express*'
-tags: ["Hard condensed matter"]
+category: Hard condensed matter
 ---

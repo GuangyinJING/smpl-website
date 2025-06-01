@@ -17,5 +17,5 @@ publishDate: '2025-05-26T13:36:33.910733Z'
 publication_types:
 - article-journal
 publication: '*Angew. Chem.*'
-tags: ["Adaptation at molecular scale"]
+category: Adaptation at molecular scale
 ---
