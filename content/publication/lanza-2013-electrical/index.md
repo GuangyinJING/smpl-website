@@ -1,6 +1,5 @@
 ---
-title: Electrical and mechanical performance of graphene sheets exposed to oxidative
-  environments
+title: Electrical and mechanical performance of graphene sheets exposed to oxidative environments
 authors:
 - Mario Lanza
 - Yan Wang

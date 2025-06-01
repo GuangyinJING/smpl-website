@@ -1,6 +1,5 @@
 ---
-title: Direct observation of nanoparticle multiple-ring pattern formation during droplet
-  evaporation with dark-field microscopy
+title: Direct observation of nanoparticle multiple-ring pattern formation during droplet evaporation with dark-field microscopy
 authors:
 - Hui Li
 - Hao Luo

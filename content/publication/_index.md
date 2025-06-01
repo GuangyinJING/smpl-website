@@ -20,10 +20,9 @@ Explore our research on bacterial swimming and rheotaxis.
 {{% /callout %}}
 
 - [Enhanced Bacterial Swimming](/publication/liu-2025-enhanced/) (*Journal Name*, 2025)
-
 - [Swimming Dynamics](/publication/tian-2024-swimming/) (*Journal Name*, 2024)
-
-- [Microswimmer as active colloids](/publication/jing-2024-swimming/) (*Book Chapter: Active Colloids*, 2024)
+- [Microswimmer as active colloids](/publication/jing-2024-swimming/) (*Book Chapter: Active Colloids: From Fundamentals to Frontiers*, 2024)
+- [Chirality-induced bacterial rheotaxis in bulk shear flows](/publication/jing-2020-chirality/) (*Science Advances*, 2020)
   
 
 ## Mechanobiology of cells
@@ -95,6 +94,8 @@ Investigations into collective behavior and swarm intelligence.
 - [From Chips-in-Lab to Point-of-Care Live Cell Device: Development of a Microfluidic Device for On-Site Cell Culture and High-Throughput Drug Screening](/publication/feng-2023-stand/)(*ACS Biomaterials Science & Engin*, 2023)
 - [A fluidic platform for mobility evaluation of zebrafish with gene deficiency](/publication/jia-2023-fluidicl/)(*Frontiers in Molecular Neuroscience*, 2023)
 - [Local evaporation flux of deformed liquid drops](/publication/jia-2021-local/)(*arXiv preprint arXiv:2108.07588*, 2021)
+- [Direct observation of nanoparticle multiple-ring pattern formation during droplet evaporation with dark-field microscopy](/publication/jia-2021-local/)(*arXiv preprint arXiv:2108.07588*, 2021)
+- [Formation of circular crack pattern in deposition self-assembled by drying nanoparticle suspension](/publication/jing-2012-formation/)(*The Journal of Physical Chemistry B*, 2012)
 - [Drying of colloidal suspensions and polymer solutions near the contact line](/publication/jing-2010-dryingl/)(*Langmuir*, 2010)
 
 ## Hard condensed matter
@@ -104,7 +105,9 @@ Investigations into collective behavior and swarm intelligence.
 Exploring material properties in condensed matter systems.
 
 {{% /callout %}}
-
+- [Graphene-Coated Atomic Force Microscope Tips for Reliable Nanoscale Electrical Characterization](/publication/lanza-2013-electrical/) (*Advanced Materials*, 2013)
+- [Electrical and mechanical performance of graphene sheets exposed to oxidative environments](/publication/lanza-2013-electrical/) (*Nano Research*, 2013)
+- [Tuning graphene morphology by substrate towards wrinkle-free devices: Experiment and simulation](/publication/lanza-2013-tuning/) (*Journal of Applied Physics*, 2013)
 - [Strain dependent resistance in chemical vapor deposition grown graphene](/publication/fu-2011-strain/) (*Applied Physics Letters*, 2011)
 - [Bending-induced conductance increase in individual semiconductor nanowires](/publication/han-2009-bending/) (*Nano Research*, 2011)
 - [Effect of surface morphology on the mechanical properties of ZnO nanowires](/publication/jing-2010-effect/) (*Applied Physics A*, 2010)

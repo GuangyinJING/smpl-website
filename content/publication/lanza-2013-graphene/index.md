@@ -1,6 +1,5 @@
 ---
-title: Graphene-Coated Atomic Force Microscope Tips for Reliable Nanoscale Electrical
-  Characterization
+title: Graphene-Coated Atomic Force Microscope Tips for Reliable Nanoscale Electrical Characterization
 authors:
 - M Lanza
 - A Bayerl

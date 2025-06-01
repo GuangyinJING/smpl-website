@@ -1,6 +1,5 @@
 ---
-title: 'Tuning graphene morphology by substrate towards wrinkle-free devices: Experiment
-  and simulation'
+title: 'Tuning graphene morphology by substrate towards wrinkle-free devices: Experiment and simulation'
 authors:
 - M Lanza
 - Y Wang
