@@ -64,9 +64,21 @@ Investigations into collective behavior and swarm intelligence.
 
 - [Quad-cascade picture of electrokinetic turbulence](/publication/shi-2025-quad-cascade/) (*Physics of Fluids*, 2025)
 
-- [Swarm Intelligence Model](/publication/jing-2010-drying/) (*Journal Name*)
+- [Confinement effects on the dynamics of polymers](/publication/bodiguel-2008-confinement/) (*APS March Meeting Abstracts*, 2008)
 
-  
+- [Confinement effects on the dynamics of polymers](/publication/bodiguel-2008-confinement/) (*APS March Meeting Abstracts*, 2008)
+
+## Lab-on-Chip and Microfluidics
+
+{{% callout note %}}
+
+Investigations into collective behavior and swarm intelligence.
+
+{{% /callout %}}
+
+- [Gradient Nanoconfinement Facilitates Binding of Transcriptional Factor NF-$ąppa$B
+  to Histone- and Protamine-DNA Complexes](/publication/che-2023-gradient/) (*Nano Letters*, 2025)
+
 
 ## Hard condensed matter
 
