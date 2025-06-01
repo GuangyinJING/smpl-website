@@ -24,6 +24,8 @@ Explore our research on bacterial swimming and rheotaxis.
 - [Swimming Modes of Bacteria Escaping from a Soft Confined Space](/publication/tian-2024-swimming/) (*Langmuir*, 2024)
 - [Microswimmer as active colloids](/publication/jing-2024-swimming/) (*Book Chapter: Active Colloids: From Fundamentals to Frontiers*, 2024)
 - [Direct Observation of Nanotracer Transport in Swarming Bacteria during Antibiotic Adaptation](/publication/wen-2023-direct/) (*ACS nano*, 2023)
+- [Bacterial turbulence in gradient confinement](/publication/yan-2023-bacterial/) (*Chinese Physics B*, 2023)
+- [Cervix chip mimicking cervical microenvironment for quantifying sperm locomotion](/publication/yu-2022-cervix/) (*Biosensors and Bioelectronics*, 2022)
 - [Activity-Induced Enhancement of Superdiffusive Transport in Bacterial Turbulence](/publication/xie-2022-activity/) (*Micromachines*, 2022)
 - [Chirality-induced bacterial rheotaxis in bulk shear flows](/publication/jing-2020-chirality/) (*Science Advances*, 2020)
   
@@ -36,7 +38,7 @@ Studies on the mechanical properties of cells and their interactions.
 
 {{% /callout %}}
 
-- [Bacterial Cell Mechanics](/publication/xu-2025-bacterial/) (*Journal Name*, 2025)
+- [Bacterial Swimming and Accumulation on Endothelial Cell Surfaces](/publication/xu-2025-bacterial/) (*The Journal of Physical Chemistry B*, 2025)
 - [Dynamics of Endothelial Cells Migration in Nature-Mimicking Blood Vessels](/publication/du-2024-dynamics/) (*Talanta*, 2024)
 - [Personalized Vascularized Tumor Organoid-on-a-Chip for Tumor Metastasis and
   Therapeutic Targeting Assessment](/publication/du-2024-personalized/) (*Advanced Matterials*, 2024)
@@ -99,6 +101,7 @@ Investigations into collective behavior and swarm intelligence.
 - [Glycerol Droplet Spreading on Growing Bacillus Subtilis Biofilms](/publication/luo-2023-glycerol/)(*Micromachines*, 2023)
 - [Local evaporation flux of deformed liquid drops](/publication/jia-2021-local/)(*arXiv preprint arXiv:2108.07588*, 2021)
 - [Direct observation of nanoparticle multiple-ring pattern formation during droplet evaporation with dark-field microscopy](/publication/li-2016-direct/)(*Physical Chemistry Chemical Physics*, 2021)
+- [Drying crack patterns of sessile drops with tuned contact line](/publication/yan-2021-drying/)(*Colloids and Surfaces A*, 2021)
 -  [Tunable Growth of ZnO Nanostructures on the Inner Wall of Capillary Tubes](/publication/luo-2019-tunable/)(*The Journal of Physical Chemistry C*, 2019)
 -  [Evaporation-induced failure of hydrophobicity](/publication/luo-2016-evaporation/)(*Physical Review Fluids*, 2016)
 - [Surface roughness induced cracks of the deposition film from drying colloidal suspension](/publication/liu-2016-surface/)(*The European Physical Journal E*, 2016)
@@ -117,6 +120,7 @@ Investigations into collective behavior and swarm intelligence.
 Exploring material properties in condensed matter systems.
 
 {{% /callout %}}
+- [AMF responsive DOX-loaded magnetic microspheres: transmembrane drug release mechanism and multimodality postsurgical treatment of breast cancer](/publication/xue-2018-amf/) (*Journal of Materials Chemistry B*, 2018)
 - [Ultrasonication-triggered ubiquitous assembly of magnetic Janus amphiphilic nanoparticles in cancer theranostic applications](/publication/liu-2019-ultrasonication/) (*Nano letters*, 2016)
 - [Coating engineering of MnFe2O4 nanoparticles with superhigh T2 relaxivity and efficient cellular uptake for highly sensitive magnetic resonance imaging](/publication/liu-2014-coating/) (*Advanced Materials Interfaces*, 2014)
 - [Step-by-Step Fracture of Two-Layer Stacked Graphene Membranes](/publication/lin-2014-step/) (*ACS Nano*, 2014)
@@ -130,3 +134,4 @@ Exploring material properties in condensed matter systems.
 - [Effect of surface morphology on the mechanical properties of ZnO nanowires](/publication/jing-2010-effect/) (*Applied Physics A*, 2010)
 - [Study of the bending modulus of individual silicon nitride nanobelts via atomic](/publication/jing-2006-study/) (*Applied Physics A*, 2006)
 - [Surface effects on elastic properties of silver nanowires: contact atomic-force microscopy](/publication/jing-2006-surface/) (*Physical Review B*, 2006)
+- [Electrical conductivity of a single C 60 nanotube](/publication/xing-2005-electrical/) (*Applied Physics Letters*, 2005)

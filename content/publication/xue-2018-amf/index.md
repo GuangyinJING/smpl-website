@@ -1,6 +1,5 @@
 ---
-title: 'AMF responsive DOX-loaded magnetic microspheres: transmembrane drug release
-  mechanism and multimodality postsurgical treatment of breast cancer'
+title: 'AMF responsive DOX-loaded magnetic microspheres: transmembrane drug release mechanism and multimodality postsurgical treatment of breast cancer'
 authors:
 - Weiming Xue
 - Xiao-Li Liu

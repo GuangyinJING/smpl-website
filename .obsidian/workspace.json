@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/publication/xing-2005-electrical/index.md",
+                "file": "content/publication/yu-2022-cervix/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "d447ed9992ec5ff2",
+            "id": "542c6eedee03abdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,7 +35,8 @@
               "title": "_index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +184,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8303f09fd31e79c",
+  "active": "542c6eedee03abdd",
   "lastOpenFiles": [
-    "content/publication/xie-2022-activity/index.md",
+    "content/publication/yu-2022-cervix/index.md",
     "content/publication/_index.md",
+    "content/publication/yan-2023-bacterial/index.md",
+    "content/publication/yu-2016-hierarchical/index.md",
+    "content/publication/yu-2015-fabrication/index.md",
+    "content/publication/yu-2015-deposit/index.md",
+    "content/publication/yan-2021-drying/index.md",
+    "content/publication/yan-2022-motility/index.md",
+    "content/publication/xue-2018-amf/index.md",
+    "content/publication/yan-2012-synthesis/index.md",
+    "content/publication/xu-2025-bacterial/index.md",
+    "publication/xu-2025-bacterial.md",
+    "content/publication/xing-2005-electrical/index.md",
+    "content/publication/xu-2012-amplified/index.md",
+    "content/publication/xu-2006-effects/index.md",
+    "content/publication/xu-2004-surface/index.md",
+    "content/publication/xie-2022-activity/index.md",
     "content/publication/xiang-2023-revolutionizing/index.md",
     "content/publication/wen-2023-direct/index.md",
     "content/publication/wang-2024-transpiration/index.md",
@@ -196,21 +212,6 @@
     "content/publication/ren-2013-pre/index.md",
     "content/publication/meng-2024-electrokinetic/index.md",
     "content/publication/ma-2012-possible/index.md",
-    "content/publication/ma-2013-facile/index.md",
-    "content/publication/ma-2010-cellular/index.md",
-    "content/publication/ma-2009-contact/index.md",
-    "content/publication/luo-2023-glycerol/index.md",
-    "content/publication/luo-2019-tunable/index.md",
-    "content/publication/luo-2016-evaporation/index.md",
-    "content/publication/luo-2015-two/index.md",
-    "content/publication/lu-2014-optical/index.md",
-    "content/publication/luo-2013-irregular/index.md",
-    "content/publication/liu-2025-enhanced/index.md",
-    "content/publication/liu-2019-ultrasonication/index.md",
-    "content/publication/liu-2016-surface/index.md",
-    "content/publication/liu-2014-tuning/index.md",
-    "content/publication/liu-2014-coating/index.md",
-    "content/publication/liu-2014-drying/index.md",
     "publication",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_f194398b5004d11b.webp",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_c21052f391330fa1.JPG",
