@@ -1,7 +1,7 @@
 ---
 title: Discovery and regulation of chiral magnetic solitons-- Exact solution from Landau-Lifshitz-Gilbert equation / working paper
 authors:
-  - X-W., Jin, et.al.
+  - X-W., Jin. et.al.
 date: 2023-01-01T00:00:00Z
 doi: ""
 publishDate: 2025-06-01T00:00:00Z
@@ -9,17 +9,16 @@ publication_types:
   - article
 publication: ""
 publication_short: ""
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: The Landau-Lifshitz-Gilbert (LLG) equation has emerged as a fundamental and indispensable framework within the realm of magnetism. However, solving the LLG equation, encompassing full nonlinearity amidst intricate complexities, presents formidable challenges. In this context, we develop a precise mapping through geometric representation, establishing a direct linkage between the LLG equation and an integrable generalized nonlinear Schrödinger equation. This novel mapping provides accessibility towards acquiring a great number of exact spatiotemporal solutions. Notably, exact chiral magnetic solitons, critical for stability and controllability in propagation with and without damping effects are discovered. Our formulation provides exact solutions for the long-standing fully nonlinear problem, facilitating practical control through spin current injection in magnetic memory applications.
 tags:
   - Source
   - Themes
 featured: false
 links:
   - name: Custom Link
-    url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: https://github.com/HugoBlox/hugo-blox-builder
+    url: https://arxiv.org/abs/2308.08331
+url_pdf: https://arxiv.org/abs/2308.08331
+url_code: https://arxiv.org/abs/2308.08331
 url_dataset: "#"
 url_poster: "#"
 url_project: ""

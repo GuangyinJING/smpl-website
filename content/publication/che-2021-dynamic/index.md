@@ -14,4 +14,5 @@ publishDate: '2025-05-26T13:36:33.945997Z'
 publication_types:
 - article-journal
 publication: '*iScience*'
+url_pdf: https://www.cell.com/action/showPdf?pii=S2589-0042%2821%2900364-3
 ---

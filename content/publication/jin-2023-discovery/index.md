@@ -11,5 +11,6 @@ publishDate: '2025-05-26T13:36:34.026832Z'
 publication_types:
 - article-journal
 publication: '*arXiv:2308.08331*'
+url_pdf: https://arxiv.org/abs/2308.08331
 tags: ["Statistical physics and phase transition"]
 ---
