@@ -13,4 +13,5 @@ publishDate: '2025-05-26T13:36:34.063366Z'
 publication_types:
 - article-journal
 publication: '*Langmuir*'
+url_pdf: https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.4c03808
 ---

@@ -17,4 +17,5 @@ publishDate: '2025-05-26T13:36:34.053135Z'
 publication_types:
 - article-journal
 publication: '*ACS Biomaterials Science & Engineering*'
+url_pdf: https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.4c00766
 ---

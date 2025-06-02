@@ -17,4 +17,5 @@ publishDate: '2025-05-26T13:36:34.011016Z'
 publication_types:
 - article-journal
 publication: '*Chemical Engineering Journal*'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S1385894723029984
 ---

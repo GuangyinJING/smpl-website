@@ -12,4 +12,5 @@ publication_types:
 - article-journal
 publication: '*Physical Review B*'
 tags: ["Statistical physics and phase transition"]
+url_pdf: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.109.014414
 ---

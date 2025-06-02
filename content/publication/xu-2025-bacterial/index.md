@@ -14,4 +14,5 @@ publishDate: '2025-05-26T13:36:34.078322Z'
 publication_types:
 - article-journal
 publication: '*The Journal of Physical Chemistry B*'
+url_pdf: https://pubs.acs.org/doi/abs/10.1021/acs.jpcb.4c08666
 ---

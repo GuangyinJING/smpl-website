@@ -18,4 +18,5 @@ publishDate: '2025-05-26T13:36:34.065955Z'
 publication_types:
 - article-journal
 publication: '*Advanced Matterials*'
+url_pdf: https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202412815
 ---

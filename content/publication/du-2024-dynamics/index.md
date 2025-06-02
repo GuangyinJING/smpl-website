@@ -17,4 +17,5 @@ publishDate: '2025-05-26T13:36:34.050450Z'
 publication_types:
 - article-journal
 publication: '*Talanta*'
+url_pdf: https://www.sciencedirect.com/science/article/pii/S003991402400794X
 ---
