@@ -16,5 +16,5 @@ publishDate: '2025-05-26T13:36:33.886816Z'
 publication_types:
 - article-journal
 publication: '*Physical Chemistry Chemical Physics*'
-url_pdf:https://pubs.rsc.org/en/content/articlehtml/2016/cp/c6cp00593d
+url_pdf: https://pubs.rsc.org/en/content/articlehtml/2016/cp/c6cp00593d
 ---

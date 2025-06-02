@@ -15,5 +15,5 @@ publishDate: '2025-05-26T13:36:33.782870Z'
 publication_types:
 - article-journal
 publication: '*Advanced Materials*'
-url_pdf:https://europepmc.org/article/med/23280635
+url_pdf: https://europepmc.org/article/med/23280635
 ---

@@ -12,5 +12,5 @@ publishDate: '2025-05-26T13:36:33.883828Z'
 publication_types:
 - article-journal
 publication: '*The European Physical Journal E*'
-url_pdf:https://link.springer.com/article/10.1140/epje/i2016-16024-7
+url_pdf: https://link.springer.com/article/10.1140/epje/i2016-16024-7
 ---

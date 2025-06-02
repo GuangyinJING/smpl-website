@@ -17,5 +17,5 @@ publishDate: '2025-05-26T13:36:33.762171Z'
 publication_types:
 - article-journal
 publication: '*Applied Physics Letters*'
-url_pdf:https://pubs.aip.org/aip/apl/article/99/21/213107/151002
+url_pdf: https://doi.org/10.1063/1.3663969
 ---
