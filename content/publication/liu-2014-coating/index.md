@@ -17,4 +17,5 @@ publishDate: '2025-05-26T13:36:33.806106Z'
 publication_types:
 - article-journal
 publication: '*Advanced Materials Interfaces*'
+url_pdf:https://onlinelibrary.wiley.com/doi/abs/10.1002/admi.201300069
 ---

@@ -17,4 +17,5 @@ publishDate: '2025-05-26T13:36:33.829786Z'
 publication_types:
 - article-journal
 publication: '*Optics express*'
+url_pdf:https://opg.optica.org/abstract.cfm?uri=oe-22-26-32502
 ---

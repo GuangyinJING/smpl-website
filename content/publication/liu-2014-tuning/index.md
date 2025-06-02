@@ -12,4 +12,5 @@ publishDate: '2025-05-26T13:36:33.819430Z'
 publication_types:
 - article-journal
 publication: '*Physics Letters A*'
+url_pdf:https://www.sciencedirect.com/science/article/pii/S0375960114001972
 ---
