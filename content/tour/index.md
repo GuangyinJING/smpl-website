@@ -17,7 +17,7 @@ sections:
             position: right
             color: "#666"
         - title: Swimming gaits
-          content: Just as Aristotle once pondered why humans swing their arms while walking, we wonder for what E. coli do wobble spontaneously as they swim.
+          content: Just as Aristotle ever pondered why humans swing their arms while walking, we wonder for what E. coli do wobble spontaneously as they swim.
           align: left
           background:
             image:
@@ -41,7 +41,7 @@ sections:
             icon_pack: fas
             text: Join Us
             url: ../contact/
-        - title: Dynamics of actin filamen in simple and biological flows
+        - title: Dynamics of actin filament in simple and biological flows
           content: Comlex fluids, versatile boundaries, confinements
           align: right
           background:
@@ -64,9 +64,12 @@ sections:
   - block: collection
     content:
       title: Soft Active Matter
-      text: "Soft matter and biophysics fall under the realm of soft condensed matter physics. In 1991, the renowned theoretical physicist Pierre-Gilles de Gennes won the Nobel Prize in Physics and delivered his lecture on *Soft Matter*, thrusting this discipline into the spotlight. He brought attention to a diverse array of everyday yet often overlooked materials—such as droplets, glue, plastics, soap bubbles, biological membranes, and soft tissues in living organisms—systems once dismissed by physicists as “dirty” and unworthy of rigorous study. De Gennes transformed these into subjects of physical laws and equations, captivating generations of scientists and technologists with his unique academic charisma, compelling research style, and personal charm. Over the past two decades, building on classical soft matter physics, the physics of *active matter*—or *living matter*—has emerged as a dynamic frontier, becoming a cornerstone of condensed matter physics due to its rich and profound implications.
-      
-      Established in 2009, the Soft Matter Physics Laboratory (SMPL) at Northwest University’s School of Physics is led by key faculty members, including Professor Guangyin Jing, Professor Yanan Liu, and Associate Professor Hao Luo. The lab focuses on the emerging interdisciplinary frontiers of active matter physics and non-equilibrium physics. It investigates novel phenomena and physical mechanisms in soft matter and biophysics, with applications in swarm intelligence and medical health. Using living active matter, microorganisms, and cells as model systems, the lab employs advanced platforms such as microscopic optical imaging, pattern recognition, and independently developed technologies like high-resolution microswimmer tracking and digital microfluidic chips. By integrating perspectives from condensed matter physics, statistical physics, fluid dynamics, molecular biology, numerical computation, and mathematical modeling, the lab explores autonomous motion at small scales, elucidates the non-equilibrium characteristics of “active” energy input and conversion at the microscale, and investigates fascinating phenomena and profound questions related to information processing, feedback, and control in the intelligence of simple life forms. The lab seeks to uncover the physical principles and laws governing the transition from simple to complex and from individual to collective behaviors in active matter during life processes, as well as the evolution of life forms from lower to higher stages. These insights aim to provide physical foundations and technological solutions for practical challenges in medical health." 
+      text: "# 
+
+Soft matter physics, a subfield of condensed matter physics, encompasses the study of materials such as liquids, colloids, polymers, foams, gels, and biological systems, which exhibit complex behaviors governed by soft interactions and thermal fluctuations. In 1991, Pierre-Gilles de Gennes, a distinguished theoretical physicist, was awarded the Nobel Prize in Physics for his groundbreaking contributions to this field. His seminal lecture on _Soft Matter_ brought widespread attention to materials like droplets, adhesives, plastics, soap films, biological membranes, and soft tissues, which had previously been overlooked by physicists as too complex or disordered for rigorous study. De Gennes demonstrated that these systems could be described using fundamental physical principles, inspiring generations of scientists with his innovative approach and interdisciplinary vision. Over the past two decades, the study of _active matter_—self-driven systems that convert energy into directed motion, often referred to as _living matter_—has emerged as a vibrant frontier within soft matter physics, significantly advancing our understanding of non-equilibrium systems and their implications for condensed matter physics.
+
+
+Founded in 2010, the Soft Matter Physics Laboratory (SMPL) at Northwest University’s School of Physics, led by Professor Guangyin Jing, Professor Yanan Liu, and Associate Professor Hao Luo, is at the forefront of research in active matter and non-equilibrium physics. The laboratory investigates novel phenomena and underlying physical mechanisms in soft matter and biophysics, with applications in swarm intelligence and medical health. Utilizing model systems such as living active matter, microorganisms, and cells, the SMPL employs cutting-edge experimental platforms, including high-resolution microswimmer tracking, digital microfluidic chips, and advanced microscopic optical imaging, combined with pattern recognition techniques. By integrating methodologies from condensed matter physics, statistical physics, fluid dynamics, molecular biology, numerical computation, and mathematical modeling, the lab explores autonomous motion at microscales, the non-equilibrium dynamics of energy input and conversion, and the principles governing information processing, feedback, and control in simple life forms. The SMPL aims to elucidate the physical laws underlying the transition from individual to collective behaviors and from simple to complex systems in active matter, as well as the evolutionary progression of life forms. These efforts provide a physical foundation for addressing critical challenges in medical health and developing innovative technological solutions." 
   - block: collection
     content:
       title: Swimming gaits of growing bacteria

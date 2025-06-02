@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/tour/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "945abb3f6b27fd2a",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/publication/zhang-2023-configurational/index.md",
     "content/publication/wen-2023-direct/index.md",
     "content/publication/xiang-2023-revolutionizing/index.md",
@@ -203,7 +204,6 @@
     "public/author/x-w.-jin.-et.al./index.html",
     "public/author/x-w.-jin.-et.al.",
     "public/author/x-w.-jin-et.al./index.xml",
-    "content/_index.md",
     "content/admin/index.md",
     "content/tour/index.md",
     "content/authors/YananLIU/_index.md",
