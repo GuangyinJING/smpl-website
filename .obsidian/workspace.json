@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/publication/preprint/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
+            }
+          },
+          {
+            "id": "4e7e75712ed2e571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/publication/jin-2023-discovery/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -171,9 +185,21 @@
   },
   "active": "945abb3f6b27fd2a",
   "lastOpenFiles": [
+    "content/publication/jin-2023-discovery/index.md",
+    "content/publication/preprint/index.md",
+    "public/author/x-w.-jin-et.al./index.xml",
+    "public/author/x-w.-jin-et.al./index.html",
+    "public/author/x-w.-jin-et.al.",
+    "public/author/x-w.-jin-et.al/index.xml",
+    "public/author/x-w.-jin-et.al/index.html",
+    "public/author/x-w.-jin-et.al",
+    "public/author/x-w.-jin-et./index.xml",
+    "public/author/x-w.-jin-et./index.html",
+    "public/author/x-w.-jin-et.",
+    "public/author/x-w.-jin./index.xml",
+    "content/_index.md",
     "content/admin/index.md",
     "content/tour/index.md",
-    "content/_index.md",
     "content/authors/YananLIU/_index.md",
     "content/authors/GuangyinJING/_index.md",
     "content/people/index.md",
@@ -194,10 +220,6 @@
     "content/publication/yu-2022-cervix/index.md",
     "content/publication/yan-2023-bacterial/index.md",
     "content/publication/yu-2016-hierarchical/index.md",
-    "content/publication/yu-2015-fabrication/index.md",
-    "content/publication/yu-2015-deposit/index.md",
-    "content/publication/yan-2021-drying/index.md",
-    "publication",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_f194398b5004d11b.webp",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_c21052f391330fa1.JPG",
     "resources/_gen/images/post/20250326jpcbpaper/featured_hu_4e4ada8a3259afa9.webp",
@@ -208,15 +230,6 @@
     "resources/_gen/images/post/2025guanshanmuchang/featured_hu_5d23dfdb2d01cc1a.webp",
     "resources/_gen/images/media/SwimmingCapillary_hu_81923aa511660b10.webp",
     "resources/_gen/images/post/2025guanshanmuchang/featured_hu_57f3ec6e587c1b.jpg",
-    "resources/_gen/images/publication/preprint",
-    "resources/_gen/images/publication",
-    "resources/_gen/images/post/20250326jpcbpaper",
-    "resources/_gen/images/post/2020smpl-reunion",
-    "resources/_gen/images/post/2025guanshanmuchang",
-    "resources/_gen/images/author/zhuqiao-li",
-    "resources/_gen/images/post/20250523-tiandefense",
-    "resources/_gen/images/post",
-    "resources/_gen/images/author/zhihan-ye",
     "notes/Untitled 1.canvas",
     "notes/Untitled.canvas"
   ]

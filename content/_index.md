@@ -50,15 +50,10 @@ sections:
       title: 
       subtitle: 
       text: |
-          {{% cta cta_link="./people/" cta_text="Meet the team →" %}} 
-    design:
-      columns: "1"
-  - block: markdown
-    content:
-      title: 
-      subtitle:       
-      text: |
-          {{% cta cta_link="./tour/" cta_text="Our research →" %}} 
+        <div style="display: flex; gap: 20px; justify-content: center;">
+          <a href="./people/" class="btn btn-primary px-3 py-2">Meet the team →</a>
+          <a href="./tour/" class="btn btn-primary px-3 py-2">Our research →</a>
+        </div>
     design:
       columns: "1"
 ---

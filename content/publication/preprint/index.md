@@ -1,10 +1,10 @@
 ---
-title: An example preprint / working paper
+title: Discovery and regulation of chiral magnetic solitons-- Exact solution from Landau-Lifshitz-Gilbert equation / working paper
 authors:
-  - admin
-date: 2019-04-07T00:00:00Z
+  - X-W., Jin, et.al.
+date: 2023-01-01T00:00:00Z
 doi: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2025-06-01T00:00:00Z
 publication_types:
   - article
 publication: ""
