@@ -14,4 +14,5 @@ publishDate: '2025-05-26T13:36:33.982366Z'
 publication_types:
 - article-journal
 publication: '*Advanced Intelligent Systems*'
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/aisy.202200366
 ---

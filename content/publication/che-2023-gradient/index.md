@@ -17,5 +17,5 @@ publishDate: '2025-05-26T13:36:33.994121Z'
 publication_types:
 - article-journal
 publication: '*Nano Letters*'
-url_pdf: https://www.cell.com/action/showPdf?pii=S2589-0042%2821%2900364-3
+url_pdf: https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.3c00325
 ---

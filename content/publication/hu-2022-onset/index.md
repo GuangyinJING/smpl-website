@@ -16,5 +16,6 @@ publishDate: '2025-05-26T13:36:33.966129Z'
 publication_types:
 - article-journal
 publication: '*Anal. Chem.*'
+url_pdf: https://pubs.acs.org/doi/abs/10.1021/acs.analchem.2c03891
 tags: ["Lab-on-Chip and Microfluidics"]
 ---

@@ -12,5 +12,6 @@ publishDate: '2025-05-26T13:36:33.999909Z'
 publication_types:
 - article-journal
 publication: '*Langmuir*'
+url_pdf: https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.2c03088
 category:  Swimming behavior at phenotype
 ---

@@ -10,4 +10,5 @@ publishDate: '2025-05-26T13:36:33.996979Z'
 publication_types:
 - article-journal
 publication: '*Micromachines*'
+url_pdf: https://www.mdpi.com/2072-666X/14/3/599
 ---
