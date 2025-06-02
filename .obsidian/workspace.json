@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/tour/index.md",
+                "file": "content/publication/zhang-2023-optically/index.md",
                 "mode": "source",
                 "source": true
               },
@@ -171,6 +171,7 @@
   },
   "active": "945abb3f6b27fd2a",
   "lastOpenFiles": [
+    "content/tour/index.md",
     "content/_index.md",
     "content/publication/zhang-2023-configurational/index.md",
     "content/publication/wen-2023-direct/index.md",
@@ -205,7 +206,6 @@
     "public/author/x-w.-jin.-et.al.",
     "public/author/x-w.-jin-et.al./index.xml",
     "content/admin/index.md",
-    "content/tour/index.md",
     "content/authors/YananLIU/_index.md",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_f194398b5004d11b.webp",
     "resources/_gen/images/post/2020smpl-reunion/featured_hu_c21052f391330fa1.JPG",

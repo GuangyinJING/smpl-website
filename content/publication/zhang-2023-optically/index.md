@@ -15,5 +15,6 @@ publishDate: '2025-05-26T13:36:34.014141Z'
 publication_types:
 - article-journal
 publication: '*Lab on a Chip*'
+url_pdf: https://pubs.rsc.org/en/content/articlehtml/2023/lc/d2lc01133f
 category: Hard condensed matter
 ---
