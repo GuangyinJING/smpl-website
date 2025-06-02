@@ -13,5 +13,5 @@ publishDate: '2025-05-26T13:36:33.895596Z'
 publication_types:
 - article-journal
 publication: '*Physical Review Fluids*'
-url_pdf:https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.1.053901
+url_pdf: https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.1.053901
 ---

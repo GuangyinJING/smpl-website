@@ -17,6 +17,6 @@ publishDate: '2025-05-26T13:36:33.910733Z'
 publication_types:
 - article-journal
 publication: '*Angew. Chem.*'
-url_pdf:https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201810834
+url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201810834
 category: Adaptation at molecular scale
 ---
