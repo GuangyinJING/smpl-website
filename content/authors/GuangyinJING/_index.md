@@ -2,7 +2,7 @@
 title: Guangyin JING
 first_name: Guangyin
 last_name: JING
-superuser: false
+superuser: ture
 role: Professor of Physics
 organizations:
   - name: Northwest University
