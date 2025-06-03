@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "content/authors/HaoLUO/_index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          },
+          {
+            "id": "955bde4cdd435519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "content/authors/GuangyinJING/_index.md",
                 "mode": "source",
                 "source": true
@@ -171,6 +185,8 @@
   },
   "active": "945abb3f6b27fd2a",
   "lastOpenFiles": [
+    "content/authors/GuangyinJING/_index.md",
+    "content/authors/HaoLUO/_index.md",
     "content/publication/zhou-2020-capillary/index.md",
     "content/publication/zheng-2023-swimming/index.md",
     "content/publication/zhao-2016-controlling/index.md",
@@ -195,8 +211,6 @@
     "content/publication/ma-2014-coupling/index.md",
     "content/publication/ma-2012-possible/index.md",
     "content/publication/ma-2010-cellular/index.md",
-    "content/publication/ma-2009-contact/index.md",
-    "content/publication/luo-2023-glycerol/index.md",
     "public/author/x-w.-jin.--et.al.--/index.xml",
     "public/author/x-w.-jin.--et.al.--/index.html",
     "public/author/x-w.-jin.--et.al.--",
