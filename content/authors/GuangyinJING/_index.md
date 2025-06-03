@@ -33,9 +33,9 @@ Guangyin Jing, Professor of the School of Physics and head of the Department of 
 ## Research Experience
 - Professor of Physics, Northwest University, Xi’an, China, 2017–Present
 - Associate Professor of Physics, Northwest University, Xi’an, China, 2010–2017
-- Visiting Researcher, PMMH Lab, ESPCI-PSL, 2015–2016
-- Postdoctoral Researcher, FAST Lab, Paris-Sud University, France, 2008–2009
-- Postdoctoral Fellow, Polymer Physics, ESPCI-ParisTech, Paris, France, 2007–2008
+- Visiting Researcher, [PMMH Lab](https://www.pmmh.espci.fr/-Home-), [ESPCI-PSL](https://www.espci.psl.eu/en/), 2015–2016
+- Postdoctoral Fellow, [FAST Lab](http://www.fast.u-psud.fr/index_en.php), [University Paris-Saclay](https://www.universite-paris-saclay.fr/en), France, 2008–2009
+- Postdoctoral Fellow, [SIMM Lab](https://www.simm.espci.fr/-Home-.html), [ESPCI-ParisTech](https://www.espci.psl.eu/en/), Paris, France, 2007–2008
 
 **Key Research Areas**:  
 - Macroscopic locomotion strategies and molecular regulation in bacteria  
