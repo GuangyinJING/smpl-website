@@ -7,7 +7,7 @@ authors:
 superuser: false
 role: Professor of Fluid Mechanics
 organizations:
-  - name: Stanford University
+  - name: Northwest University
     url: ""
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 interests:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/authors/HaoLUO/_index.md",
+                "file": "content/authors/YananLIU/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/authors/GuangyinJING/_index.md",
+                "file": "content/authors/WeiFENG/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -35,7 +35,8 @@
               "title": "_index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,9 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "945abb3f6b27fd2a",
+  "active": "955bde4cdd435519",
   "lastOpenFiles": [
     "content/authors/GuangyinJING/_index.md",
+    "content/authors/YananLIU/_index.md",
     "content/authors/HaoLUO/_index.md",
     "content/publication/zhou-2020-capillary/index.md",
     "content/publication/zheng-2023-swimming/index.md",
@@ -210,7 +212,6 @@
     "content/publication/preprint/index.md",
     "content/publication/ma-2014-coupling/index.md",
     "content/publication/ma-2012-possible/index.md",
-    "content/publication/ma-2010-cellular/index.md",
     "public/author/x-w.-jin.--et.al.--/index.xml",
     "public/author/x-w.-jin.--et.al.--/index.html",
     "public/author/x-w.-jin.--et.al.--",
