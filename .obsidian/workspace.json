@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/authors/YananLIU/_index.md",
+                "file": "content/authors/YuhePU/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -35,8 +35,7 @@
               "title": "_index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,10 +183,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "955bde4cdd435519",
+  "active": "945abb3f6b27fd2a",
   "lastOpenFiles": [
-    "content/authors/GuangyinJING/_index.md",
+    "content/authors/YuliLIU/_index.md",
     "content/authors/YananLIU/_index.md",
+    "public/author/yannan-liu/YLIUBigPic_hu_3dca04cc32f172ec.webp",
+    "public/author/yannan-liu/YLIUBigPic_hu_15b5dd042454047d.webp",
+    "public/author/yannan-liu/YLIUBigPic_hu_2a76d5abb75a78a2.webp",
+    "resources/_gen/images/author/yannan-liu/YLIUBigPic_hu_2a76d5abb75a78a2.webp",
+    "resources/_gen/images/author/yannan-liu/YLIUBigPic_hu_15b5dd042454047d.webp",
+    "resources/_gen/images/author/yannan-liu/YLIUBigPic_hu_3dca04cc32f172ec.webp",
+    "public/media/BacteriaGaits_hu_3ff8fe7162e1b18a.webp",
+    "public/media/BacteriaGaits_hu_e697ee4adc15e311.webp",
+    "public/media/BacteriaGaits_hu_aea50a87eacc5aa6.webp",
+    "resources/_gen/images/media/BacteriaGaits_hu_aea50a87eacc5aa6.webp",
+    "content/authors/WeiFENG/_index.md",
+    "content/authors/GuangyinJING/_index.md",
     "content/authors/HaoLUO/_index.md",
     "content/publication/zhou-2020-capillary/index.md",
     "content/publication/zheng-2023-swimming/index.md",
@@ -210,8 +221,6 @@
     "content/publication/tian-2024-swimming/index.md",
     "content/publication/shi-2025-quad/index.md",
     "content/publication/preprint/index.md",
-    "content/publication/ma-2014-coupling/index.md",
-    "content/publication/ma-2012-possible/index.md",
     "public/author/x-w.-jin.--et.al.--/index.xml",
     "public/author/x-w.-jin.--et.al.--/index.html",
     "public/author/x-w.-jin.--et.al.--",
@@ -222,16 +231,6 @@
     "public/author/x-w.-jin.-et.al./index.html",
     "public/author/x-w.-jin.-et.al.",
     "public/author/x-w.-jin-et.al./index.xml",
-    "resources/_gen/images/post/2020smpl-reunion/featured_hu_f194398b5004d11b.webp",
-    "resources/_gen/images/post/2020smpl-reunion/featured_hu_c21052f391330fa1.JPG",
-    "resources/_gen/images/post/20250326jpcbpaper/featured_hu_4e4ada8a3259afa9.webp",
-    "resources/_gen/images/post/2020smpl-reunion/featured_hu_37cc1f9a0362886.webp",
-    "resources/_gen/images/post/20250326jpcbpaper/featured_hu_5a91846a1ffe91d8.jpg",
-    "resources/_gen/images/post/2020smpl-reunion/featured_hu_43727d7f2343a0bb.JPG",
-    "resources/_gen/images/post/2025guanshanmuchang/featured_hu_d6b4db50fe311a48.webp",
-    "resources/_gen/images/post/2025guanshanmuchang/featured_hu_5d23dfdb2d01cc1a.webp",
-    "resources/_gen/images/media/SwimmingCapillary_hu_81923aa511660b10.webp",
-    "resources/_gen/images/post/2025guanshanmuchang/featured_hu_57f3ec6e587c1b.jpg",
     "notes/Untitled 1.canvas",
     "notes/Untitled.canvas"
   ]

@@ -34,4 +34,4 @@ user_groups:
   - Grad Students
 ---
 my project investigates the suppression of _Escherichia coli_ surface accumulation and rheotactic drift motion, driven by helical flagella, using non-Newtonian fluids to mitigate bacterial adhesion to solid wall surfaces. By leveraging the unique viscoelastic properties of non-Newtonian fluids, the study aims to disrupt the mechanisms underlying bacterial accumulation and upstream migration along surfaces, which are critical for infection processes such as biofilm formation and microbial contamination. Through controlled experiments in microfluidic channels, we analyze how fluid rheology influences bacterial swimming dynamics and surface interactions. This research seeks to uncover novel strategies for preventing bacterial adhesion and infection, offering significant implications for biomedical applications, infection control, and the design of antimicrobial surfaces.
-![Clean Room](SwimmingOrien.jpg)
+![NematicFlow](SwimmingOrien.jpg)
