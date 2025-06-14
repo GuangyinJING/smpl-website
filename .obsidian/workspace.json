@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/authors/GuangyinJING/_index.md",
+                "file": "content/tour/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "index"
             }
           },
           {
@@ -185,6 +185,10 @@
   },
   "active": "945abb3f6b27fd2a",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/admin/index.md",
+    "content/contact/index.md",
+    "content/authors/GuangyinJING/_index.md",
     "content/authors/YuhePU/_index.md",
     "public/author/yuhe-pu/FlowSensing_hu_3e50b86b51071851.webp",
     "public/author/yuhe-pu/FlowSensing_hu_e3627988be435e9f.webp",
@@ -199,7 +203,6 @@
     "content/authors/WeiFENG/_index.md",
     "content/authors/YuliLIU/_index.md",
     "content/authors/YananLIU/_index.md",
-    "content/authors/GuangyinJING/_index.md",
     "content/authors/HaoLUO/_index.md",
     "content/publication/zhou-2020-capillary/index.md",
     "content/publication/zheng-2023-swimming/index.md",
@@ -218,8 +221,6 @@
     "content/publication/xing-2005-electrical/index.md",
     "content/publication/xie-2022-activity/index.md",
     "content/publication/xiang-2023-revolutionizing/index.md",
-    "content/publication/wang-2024-transpiration/index.md",
-    "content/publication/tian-2024-swimming/index.md",
     "public/author/x-w.-jin.--et.al.--/index.xml",
     "public/author/x-w.-jin.--et.al.--/index.html",
     "public/author/x-w.-jin.--et.al.--",
