@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
 
-        Established in 2010 in Xi'an, western China, the **SMPL** began as a center for classical soft matter research and has since evolved into a hub for active matter systems. By studying bacteria—nature’s microscopic marvels—we uncover the intricate physics of single-cell navigation in complex fluids at low Reynolds numbers, revealing the ingenious strategies of life at the smallest scales.
+        Established in 2009 in Xi'an, western China, the **SMPL** began as a center for classical soft matter research and has since evolved into a hub for active matter systems. By studying bacteria—nature’s microscopic marvels—we uncover the intricate physics of single-cell navigation in complex fluids at low Reynolds numbers, revealing the ingenious strategies of life at the smallest scales.
   - block: collection
     content:
       title: News & Events

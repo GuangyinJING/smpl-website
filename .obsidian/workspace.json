@@ -4,44 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4f65ae77197f546b",
+        "id": "c9bfd652c0659501",
         "type": "tabs",
         "children": [
           {
-            "id": "945abb3f6b27fd2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/tour/index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "5afe2a5a9545b3d9",
+            "id": "979f39b7d6c8aa87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/_index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_index"
-            }
-          },
-          {
-            "id": "955bde4cdd435519",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/authors/WeiFENG/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -49,8 +21,7 @@
               "title": "_index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,12 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "955bde4cdd435519",
+  "active": "979f39b7d6c8aa87",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/tour/index.md",
     "content/admin/index.md",
     "index.md",
+    "README.md",
+    "Untitled.base",
+    "content/_index.md",
+    "content/authors/WeiFENG/_index.md",
     "content/authors/GuangyinJING/avatar.jpg",
     "content/authors/GuangyinJING/经光银头像.jpeg",
     "content/authors/GuangyinJING/经光银头像2.JPG",
@@ -219,7 +192,6 @@
     "resources/_gen/images/author/yuhe-pu/FlowSensing_hu_e3627988be435e9f.webp",
     "resources/_gen/images/author/yuhe-pu/FlowSensing_hu_3e50b86b51071851.webp",
     "public/author/yuhe-pu/FlowSensing_hu_fc03f7f0fdbcd467.webp",
-    "content/authors/WeiFENG/_index.md",
     "content/authors/YuliLIU/_index.md",
     "content/authors/YananLIU/_index.md",
     "content/authors/HaoLUO/_index.md",
@@ -237,7 +209,6 @@
     "content/publication/yan-2021-drying/index.md",
     "content/publication/xue-2018-amf/index.md",
     "content/publication/xu-2025-bacterial/index.md",
-    "content/publication/xing-2005-electrical/index.md",
     "public/author/x-w.-jin.--et.al.--/index.xml",
     "public/author/x-w.-jin.--et.al.--/index.html",
     "public/author/x-w.-jin.--et.al.--",
@@ -247,7 +218,6 @@
     "public/author/x-w.-jin.-et.al./index.xml",
     "public/author/x-w.-jin.-et.al./index.html",
     "public/author/x-w.-jin.-et.al.",
-    "public/author/x-w.-jin-et.al./index.xml",
     "notes/Untitled 1.canvas",
     "notes/Untitled.canvas"
   ]
