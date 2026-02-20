@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "5afe2a5a9545b3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          },
+          {
             "id": "955bde4cdd435519",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "_index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "2010",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,6 +190,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -183,14 +200,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "945abb3f6b27fd2a",
+  "active": "955bde4cdd435519",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/tour/index.md",
+    "content/admin/index.md",
+    "index.md",
     "content/authors/GuangyinJING/avatar.jpg",
     "content/authors/GuangyinJING/经光银头像.jpeg",
     "content/authors/GuangyinJING/经光银头像2.JPG",
-    "content/tour/index.md",
-    "content/_index.md",
-    "content/admin/index.md",
     "content/contact/index.md",
     "content/authors/GuangyinJING/_index.md",
     "content/authors/YuhePU/_index.md",
@@ -201,7 +219,6 @@
     "resources/_gen/images/author/yuhe-pu/FlowSensing_hu_e3627988be435e9f.webp",
     "resources/_gen/images/author/yuhe-pu/FlowSensing_hu_3e50b86b51071851.webp",
     "public/author/yuhe-pu/FlowSensing_hu_fc03f7f0fdbcd467.webp",
-    "public/author/yuhe-pu/FlowSensing_hu_59739d238425d72.webp",
     "content/authors/WeiFENG/_index.md",
     "content/authors/YuliLIU/_index.md",
     "content/authors/YananLIU/_index.md",
