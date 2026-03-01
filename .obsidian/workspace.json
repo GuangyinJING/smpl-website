@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f1fff82b4d2bdf07",
+        "id": "37834e1fcad100ad",
         "type": "tabs",
         "children": [
           {
-            "id": "732b401f59ac8007",
+            "id": "0a6d397cd779e617",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,8 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "732b401f59ac8007",
+  "active": "0a6d397cd779e617",
   "lastOpenFiles": [
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
     "content/_index.md",
     "content/tour/index.md",
     "content/admin/index.md",
@@ -204,16 +208,12 @@
     "content/publication/yan-2023-bacterial/index.md",
     "content/publication/yan-2021-drying/index.md",
     "content/publication/xue-2018-amf/index.md",
-    "content/publication/xu-2025-bacterial/index.md",
     "public/author/x-w.-jin.--et.al.--/index.xml",
     "public/author/x-w.-jin.--et.al.--/index.html",
     "public/author/x-w.-jin.--et.al.--",
     "public/author/x-w.-jin.-et.al.-/index.xml",
     "public/author/x-w.-jin.-et.al.-/index.html",
     "public/author/x-w.-jin.-et.al.-",
-    "public/author/x-w.-jin.-et.al./index.xml",
-    "public/author/x-w.-jin.-et.al./index.html",
-    "public/author/x-w.-jin.-et.al.",
     "notes/Untitled 1.canvas",
     "notes/Untitled.canvas"
   ]
