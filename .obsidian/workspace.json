@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "_index"
             }
+          },
+          {
+            "id": "975b4d9036e471c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "979f39b7d6c8aa87",
+  "active": "975b4d9036e471c3",
   "lastOpenFiles": [
     "content/tour/index.md",
     "content/admin/index.md",
