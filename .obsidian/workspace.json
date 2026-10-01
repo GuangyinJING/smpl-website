@@ -11,10 +11,14 @@
             "id": "d02d58d7c7e299df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "publication/shi-2025-quad-cascade.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "shi-2025-quad-cascade"
             }
           }
         ]
@@ -170,9 +174,11 @@
   },
   "active": "8b7b9a5dfaf625a3",
   "lastOpenFiles": [
-    "publication/xu-2025-bacterial.md",
-    "publication/shi-2025-quad-cascade.md",
+    "publication/Untitled",
     "publication/du-2024-dynamics.md",
+    "publication/shi-2025-quad-cascade.md",
+    "publication/xu-2025-bacterial.md",
+    "publication/2026-active-turbulence",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
@@ -210,12 +216,10 @@
     "content/publication/zeng-2023-directional/index.md",
     "content/publication/yu-2023-escaping/index.md",
     "content/publication/yu-2022-cervix/index.md",
-    "content/publication/yan-2023-bacterial/index.md",
     "public/author/x-w.-jin.--et.al.--/index.xml",
     "public/author/x-w.-jin.--et.al.--/index.html",
     "public/author/x-w.-jin.--et.al.--",
     "public/author/x-w.-jin.-et.al.-/index.xml",
-    "public/author/x-w.-jin.-et.al.-/index.html",
     "notes/Untitled 1.canvas",
     "notes/Untitled.canvas"
   ]
