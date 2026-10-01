@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37834e1fcad100ad",
+        "id": "f1f03f2ed1a9230e",
         "type": "tabs",
         "children": [
           {
-            "id": "0a6d397cd779e617",
+            "id": "d02d58d7c7e299df",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -166,8 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a6d397cd779e617",
+  "active": "8b7b9a5dfaf625a3",
   "lastOpenFiles": [
+    "publication/xu-2025-bacterial.md",
+    "publication/shi-2025-quad-cascade.md",
+    "publication/du-2024-dynamics.md",
     "Untitled 4.base",
     "Untitled 3.base",
     "Untitled 2.base",
@@ -206,14 +211,11 @@
     "content/publication/yu-2023-escaping/index.md",
     "content/publication/yu-2022-cervix/index.md",
     "content/publication/yan-2023-bacterial/index.md",
-    "content/publication/yan-2021-drying/index.md",
-    "content/publication/xue-2018-amf/index.md",
     "public/author/x-w.-jin.--et.al.--/index.xml",
     "public/author/x-w.-jin.--et.al.--/index.html",
     "public/author/x-w.-jin.--et.al.--",
     "public/author/x-w.-jin.-et.al.-/index.xml",
     "public/author/x-w.-jin.-et.al.-/index.html",
-    "public/author/x-w.-jin.-et.al.-",
     "notes/Untitled 1.canvas",
     "notes/Untitled.canvas"
   ]
